@@ -6,3 +6,24 @@
 [2025-11-26 09:19:53.844640] Cleaned folder before writing: D:\photo-host\product-images\product-images\009-2
 [2025-11-26 09:19:53.957462] Cleaned folder before writing: D:\photo-host\product-images\product-images\009-4
 [2025-11-26 09:19:54.294044] ======= FINISHED =======
+[2025-11-26 09:26:19.627833] ======= START PROCESSING =======
+[2025-11-26 09:26:19.628212] Input folder: C:/Users/Asus/Desktop/21212
+[2025-11-26 09:26:19.629210] Found 30 images
+[2025-11-26 09:26:19.658330] Cleaned folder: D:\photo-host\product-images\product-images\0026-2
+[2025-11-26 09:26:19.665331] Cleaned folder: D:\photo-host\product-images\product-images\0026-3
+[2025-11-26 09:26:19.673332] Cleaned folder: D:\photo-host\product-images\product-images\005
+[2025-11-26 09:26:19.682335] Cleaned folder: D:\photo-host\product-images\product-images\009-2
+[2025-11-26 09:26:19.689333] Cleaned folder: D:\photo-host\product-images\product-images\009-4
+[2025-11-26 09:26:19.742408] Saved Excel 1: D:\photo-host\product-images\product-images\photo_links.xlsx
+[2025-11-26 09:26:19.743408] Saved Excel 2: D:\photo-host\product-images\product-images\articles_summary.xlsx
+[2025-11-26 09:26:19.743408] ======= FINISHED PROCESSING =======
+[2025-11-26 09:26:19.743408] GIT: git add .
+[2025-11-26 09:26:19.745408] GIT ERROR: [WinError 2] Не удается найти указанный файл
+[2025-11-26 09:46:41.814268] ======= START PROCESSING =======
+[2025-11-26 09:46:41.815267] Input folder: C:/Users/Asus/Desktop/21212
+[2025-11-26 09:46:41.816267] Found 7 images
+[2025-11-26 09:46:41.849226] Cleaned folder: D:\photo-host\product-images\product-images\005
+[2025-11-26 09:46:41.919037] Saved Excel 1: D:\photo-host\product-images\product-images\photo_links.xlsx
+[2025-11-26 09:46:41.919037] Saved Excel 2: D:\photo-host\product-images\product-images\articles_summary.xlsx
+[2025-11-26 09:46:41.920037] ======= FINISHED PROCESSING =======
+[2025-11-26 09:46:41.920037] GIT: git add .
