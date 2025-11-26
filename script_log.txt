@@ -1,0 +1,8 @@
+[2025-11-26 09:19:53.469947] ======= START PROCESSING =======
+[2025-11-26 09:19:53.470949] Found 30 images
+[2025-11-26 09:19:53.569619] Cleaned folder before writing: D:\photo-host\product-images\product-images\0026-2
+[2025-11-26 09:19:53.633642] Cleaned folder before writing: D:\photo-host\product-images\product-images\0026-3
+[2025-11-26 09:19:53.735634] Cleaned folder before writing: D:\photo-host\product-images\product-images\005
+[2025-11-26 09:19:53.844640] Cleaned folder before writing: D:\photo-host\product-images\product-images\009-2
+[2025-11-26 09:19:53.957462] Cleaned folder before writing: D:\photo-host\product-images\product-images\009-4
+[2025-11-26 09:19:54.294044] ======= FINISHED =======
