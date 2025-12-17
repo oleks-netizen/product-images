@@ -102,3 +102,7 @@
 [2025-12-17 08:03:54.134070] BAD: C:/Users/Asus/Desktop/не всі фото/обрізані фото\TW-PH-mars-ksr\003_image_TW-PH-mars-ksr.jpg (min side 500 < 501)
 [2025-12-17 08:03:54.134070] BAD: C:/Users/Asus/Desktop/не всі фото/обрізані фото\TW-PH-red-saf\001_image_TW-PH-red-saf.jpg (min side 500 < 501)
 [2025-12-17 08:03:54.228348] ======= DONE PROCESSING =======
+[2025-12-17 08:06:11.821365] ======= START =======
+[2025-12-17 08:06:11.821365] Input folder: C:/Users/Asus/Desktop/не всі фото/обрізані фото/BN-GC-14-1-o-felt-d
+[2025-12-17 08:06:11.868766] BAD: C:/Users/Asus/Desktop/не всі фото/обрізані фото/BN-GC-14-1-o-felt-d\2_image_BN-GC-14-1-o-felt-d-Photoroom.jpg (min side 500 < 501)
+[2025-12-17 08:06:11.957801] ======= DONE PROCESSING =======
