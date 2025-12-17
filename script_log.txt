@@ -82,3 +82,13 @@
 [2025-12-13 09:14:16.673307] Input folder: C:/Users/Asus/Desktop/для нових скриптів/фото
 [2025-12-13 09:14:16.813863] BAD: C:/Users/Asus/Desktop/для нових скриптів/фото\14669\8_image_14669.jpeg (min side 339 < 501)
 [2025-12-13 09:14:17.500535] ======= DONE PROCESSING =======
+[2025-12-17 07:58:19.368592] ======= START =======
+[2025-12-17 07:58:19.368592] Input folder: C:/Users/Asus/Desktop/не всі фото/обрізані фото
+[2025-12-17 07:58:19.493014] BAD: C:/Users/Asus/Desktop/не всі фото/обрізані фото\BN-GC-14-1-o-felt-d\2_image_BN-GC-14-1-o-felt-d-Photoroom.png (min side 500 < 501)
+[2025-12-17 07:58:19.650348] BAD: C:/Users/Asus/Desktop/не всі фото/обрізані фото\BN-OP-12-g-kr\001_image_BN-OP-12-g-kr.jpg (min side 500 < 501)
+[2025-12-17 07:58:19.914813] BAD: C:/Users/Asus/Desktop/не всі фото/обрізані фото\BN-SB-6\3_image_BN-SB-6_073926493725-Photoroom.png (min side 500 < 501)
+[2025-12-17 07:58:20.055482] BAD: C:/Users/Asus/Desktop/не всі фото/обрізані фото\TW-PH-black-ksr\5_image_TW-PH-black-ksr.jpg (min side 500 < 501)
+[2025-12-17 07:58:20.071111] BAD: C:/Users/Asus/Desktop/не всі фото/обрізані фото\TW-PH-kon-crz\003_image_TW-PH-kon-crz.jpg (min side 500 < 501)
+[2025-12-17 07:58:20.096845] BAD: C:/Users/Asus/Desktop/не всі фото/обрізані фото\TW-PH-mars-ksr\003_image_TW-PH-mars-ksr.jpg (min side 500 < 501)
+[2025-12-17 07:58:20.100845] BAD: C:/Users/Asus/Desktop/не всі фото/обрізані фото\TW-PH-red-saf\001_image_TW-PH-red-saf.jpg (min side 500 < 501)
+[2025-12-17 07:58:20.214816] ======= DONE PROCESSING =======
