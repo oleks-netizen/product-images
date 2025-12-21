@@ -116,3 +116,20 @@
 [2025-12-17 08:44:01.571180] BAD: C:/Users/Asus/Desktop/не всі фото/1 без фоторум\TW-PH-mars-ksr\003_image_TW-PH-mars-ksr.jpg (min side 500 < 501)
 [2025-12-17 08:44:01.584773] BAD: C:/Users/Asus/Desktop/не всі фото/1 без фоторум\TW-PH-red-saf\001_image_TW-PH-red-saf.jpg (min side 500 < 501)
 [2025-12-17 08:44:01.697661] ======= DONE PROCESSING =======
+[2025-12-21 19:47:01.958798] ======= START =======
+[2025-12-21 19:47:01.958798] Input folder: C:/Users/Asus/Desktop/338/pfufkmyf gfgrf lkz akmk/посортовані для Гіт
+[2025-12-21 19:47:02.177617] BAD: C:/Users/Asus/Desktop/338/pfufkmyf gfgrf lkz akmk/посортовані для Гіт\522623\001_image_522623.jpg (min side 500 < 501)
+[2025-12-21 19:47:02.177617] BAD: C:/Users/Asus/Desktop/338/pfufkmyf gfgrf lkz akmk/посортовані для Гіт\522660\001_image_522660.jpg (min side 500 < 501)
+[2025-12-21 19:47:02.443322] BAD: C:/Users/Asus/Desktop/338/pfufkmyf gfgrf lkz akmk/посортовані для Гіт\BS70106-01\5_image_BS70106-01.jpg (min side 500 < 501)
+[2025-12-21 19:47:02.724660] BAD: C:/Users/Asus/Desktop/338/pfufkmyf gfgrf lkz akmk/посортовані для Гіт\fz1896103\8_image_fz1896103.jpg (min side 500 < 501)
+[2025-12-21 19:47:02.818436] BAD: C:/Users/Asus/Desktop/338/pfufkmyf gfgrf lkz akmk/посортовані для Гіт\HB3628R\008_image_HB3628R.jpg (min side 500 < 501)
+[2025-12-21 19:47:02.912216] BAD: C:/Users/Asus/Desktop/338/pfufkmyf gfgrf lkz akmk/посортовані для Гіт\L28001-4\5_image_L28001-4.jpg (min side 500 < 501)
+[2025-12-21 19:47:03.052883] BAD: C:/Users/Asus/Desktop/338/pfufkmyf gfgrf lkz akmk/посортовані для Гіт\L28029-3\5_image_L28029-3.jpg (min side 500 < 501)
+[2025-12-21 19:47:03.427997] BAD: C:/Users/Asus/Desktop/338/pfufkmyf gfgrf lkz akmk/посортовані для Гіт\LC47991-1A\2_image_LC47991-1A.jpg (min side 500 < 501)
+[2025-12-21 19:47:03.756221] BAD: C:/Users/Asus/Desktop/338/pfufkmyf gfgrf lkz akmk/посортовані для Гіт\TW-CB-8-black\3_image_TW-CB-8-black.jpg (min side 500 < 501)
+[2025-12-21 19:47:03.896888] BAD: C:/Users/Asus/Desktop/338/pfufkmyf gfgrf lkz akmk/посортовані для Гіт\TW-OP-1-black\2_image_TW-OP-1-black.jpg (min side 500 < 501)
+[2025-12-21 19:47:03.896888] BAD: C:/Users/Asus/Desktop/338/pfufkmyf gfgrf lkz akmk/посортовані для Гіт\TW-OP-1-dark-blue\2_image_TW-OP-1-dark-blue.jpg (min side 500 < 501)
+[2025-12-21 19:47:03.912519] BAD: C:/Users/Asus/Desktop/338/pfufkmyf gfgrf lkz akmk/посортовані для Гіт\TW-OP-1-dark-blue\3_image_TW-OP-1-dark-blue.jpg (min side 500 < 501)
+[2025-12-21 19:47:03.912519] BAD: C:/Users/Asus/Desktop/338/pfufkmyf gfgrf lkz akmk/посортовані для Гіт\TW-OP-1-mars\2_image_TW-OP-1-mars.jpg (min side 500 < 501)
+[2025-12-21 19:47:03.912519] BAD: C:/Users/Asus/Desktop/338/pfufkmyf gfgrf lkz akmk/посортовані для Гіт\TW-PM-Classic-mars\2_image_TW-PM-Classic-mars.jpg (min side 500 < 501)
+[2025-12-21 19:47:04.131334] ======= DONE PROCESSING =======
