@@ -133,3 +133,7 @@
 [2025-12-21 19:47:03.912519] BAD: C:/Users/Asus/Desktop/338/pfufkmyf gfgrf lkz akmk/посортовані для Гіт\TW-OP-1-mars\2_image_TW-OP-1-mars.jpg (min side 500 < 501)
 [2025-12-21 19:47:03.912519] BAD: C:/Users/Asus/Desktop/338/pfufkmyf gfgrf lkz akmk/посортовані для Гіт\TW-PM-Classic-mars\2_image_TW-PM-Classic-mars.jpg (min side 500 < 501)
 [2025-12-21 19:47:04.131334] ======= DONE PROCESSING =======
+[2026-02-04 15:37:54.830130] ======= START =======
+[2026-02-04 15:37:54.830605] Input folder: C:/Users/Asus/Desktop/12
+[2026-02-04 15:37:55.602622] BAD: C:/Users/Asus/Desktop/12\51411030m\3_image_51411030m.png (min side 500 < 501)
+[2026-02-04 15:37:58.229630] ======= DONE PROCESSING =======
