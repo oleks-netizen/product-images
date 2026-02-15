@@ -146,3 +146,8 @@
 [2026-02-04 16:32:22.113746] BAD: C:/Users/Asus/Desktop/12 — копия\51411030m\007_image_51411030m.jpg (min side 500 < 501)
 [2026-02-04 16:32:22.150595] BAD: C:/Users/Asus/Desktop/12 — копия\51411030m\007_image_51411030m.png (min side 500 < 501)
 [2026-02-04 16:32:23.806767] ======= DONE PROCESSING =======
+[2026-02-15 16:50:14.717047] ======= START =======
+[2026-02-15 16:50:14.717047] Input folder: C:/Users/Asus/Desktop/тест пнг
+[2026-02-15 16:50:14.841763] BAD: C:/Users/Asus/Desktop/тест пнг\LC69055-76\5_image_LC69055-76.jpg (min side 500 < 501)
+[2026-02-15 16:50:14.888653] BAD: C:/Users/Asus/Desktop/тест пнг\LC69802-01\5_image_LC69802-01.jpg (min side 500 < 501)
+[2026-02-15 16:50:15.029320] ======= DONE PROCESSING =======
