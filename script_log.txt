@@ -168,3 +168,20 @@
 [2026-02-18 09:50:15.871831] BAD: C:/Users/Asus/Desktop/1 20.01.2026/339 фото/2 Новая папка обрізані\RCh-1313-4lx\001_image_RCh-1313-4lx.jpg (min side 500 < 501)
 [2026-02-18 09:50:16.246946] BAD: C:/Users/Asus/Desktop/1 20.01.2026/339 фото/2 Новая папка обрізані\TW-Lina-black-flo\7_image_TW-Lina-black-flo.jpg (min side 500 < 501)
 [2026-02-18 09:50:16.590800] ======= DONE PROCESSING =======
+[2026-02-18 19:38:55.048480] ======= START =======
+[2026-02-18 19:38:55.060488] Input folder: C:/Users/Asus/Desktop/без пнг 1
+[2026-02-18 19:39:03.169684] Resized: C:/Users/Asus/Desktop/без пнг 1\BN-BAG-17-choko\5_image_BN-BAG-17-choko.jpg to 520x510
+[2026-02-18 19:39:03.298087] Resized: C:/Users/Asus/Desktop/без пнг 1\BN-BAG-22-choko\005_image_BN-BAG-22-choko.jpg to 510x616
+[2026-02-18 19:39:03.501060] Resized: C:/Users/Asus/Desktop/без пнг 1\BN-BAG-28-choko\002_image_BN-BAG-28-choko.jpg to 510x735
+[2026-02-18 19:39:03.631852] Resized: C:/Users/Asus/Desktop/без пнг 1\BN-BAG-3-choko\002_image_BN-BAG-3-choko.jpg to 510x614
+[2026-02-18 19:39:08.756227] Resized: C:/Users/Asus/Desktop/без пнг 1\LC69055-76\5_image_LC69055-76.jpg to 996x510
+[2026-02-18 19:39:09.043639] Resized: C:/Users/Asus/Desktop/без пнг 1\LC69802-01\5_image_LC69802-01.jpg to 1177x510
+[2026-02-18 19:39:09.188233] Resized: C:/Users/Asus/Desktop/без пнг 1\LC69802-12\009_image_LC69802-12.jpg to 810x510
+[2026-02-18 19:39:09.242205] Resized: C:/Users/Asus/Desktop/без пнг 1\LC69802-12\4_image_LC69802-12.jpg to 883x510
+[2026-02-18 19:39:09.282274] Resized: C:/Users/Asus/Desktop/без пнг 1\LC69802-12\5_image_LC69802-12.jpg to 1200x510
+[2026-02-18 19:39:09.374932] Resized: C:/Users/Asus/Desktop/без пнг 1\LC69802-25\001_image_LC69802-25.jpg to 910x510
+[2026-02-18 19:39:09.459599] Resized: C:/Users/Asus/Desktop/без пнг 1\LC69802-25\4_image_LC69802-25.jpg to 914x510
+[2026-02-18 19:39:09.819411] Resized: C:/Users/Asus/Desktop/без пнг 1\LC69855-2058\001_image_LC69855-2058.jpg to 874x510
+[2026-02-18 19:39:10.792826] Resized: C:/Users/Asus/Desktop/без пнг 1\RCh-1313-4lx\001_image_RCh-1313-4lx.jpg to 1206x510
+[2026-02-18 19:39:12.298473] Resized: C:/Users/Asus/Desktop/без пнг 1\TW-Lina-black-flo\7_image_TW-Lina-black-flo.jpg to 527x510
+[2026-02-18 19:39:12.869536] ======= DONE PROCESSING =======
