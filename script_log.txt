@@ -185,3 +185,18 @@
 [2026-02-18 19:39:10.792826] Resized: C:/Users/Asus/Desktop/без пнг 1\RCh-1313-4lx\001_image_RCh-1313-4lx.jpg to 1206x510
 [2026-02-18 19:39:12.298473] Resized: C:/Users/Asus/Desktop/без пнг 1\TW-Lina-black-flo\7_image_TW-Lina-black-flo.jpg to 527x510
 [2026-02-18 19:39:12.869536] ======= DONE PROCESSING =======
+[2026-02-27 16:44:15.461374] ======= START =======
+[2026-02-27 16:44:15.461374] Input folder: C:/Users/Asus/Desktop/340 обрізані фото
+[2026-02-27 16:44:15.752973] Resized: C:/Users/Asus/Desktop/340 обрізані фото\1352_1_2\1_image_1352_1_2.jpg to 510x1104
+[2026-02-27 16:44:16.034624] Resized: C:/Users/Asus/Desktop/340 обрізані фото\533670\4_image_533670.jpg to 1058x510
+[2026-02-27 16:44:16.526403] Resized: C:/Users/Asus/Desktop/340 обрізані фото\FA-1819-3md\001_image_FA-1819-3md.jpg to 1014x510
+[2026-02-27 16:44:16.946822] Resized: C:/Users/Asus/Desktop/340 обрізані фото\JD1072A\002_image_JD1072A.jpg to 510x1287
+[2026-02-27 16:44:17.178670] Resized: C:/Users/Asus/Desktop/340 обрізані фото\JD7055R\10_image_JD7055R.jpg to 1189x510
+[2026-02-27 16:44:17.448287] Resized: C:/Users/Asus/Desktop/340 обрізані фото\k12511bl-black\001_image_k12511bl-black.jpg to 1002x510
+[2026-02-27 16:44:17.711403] Resized: C:/Users/Asus/Desktop/340 обрізані фото\K17108bl-black\4_image_K17108bl-black.jpg to 510x1655
+[2026-02-27 16:44:17.781950] Resized: C:/Users/Asus/Desktop/340 обрізані фото\K17109bl-black\4_image_K17109bl-black.jpg to 510x1591
+[2026-02-27 16:44:17.852466] Resized: C:/Users/Asus/Desktop/340 обрізані фото\K18005bl-black\4_image_K18005bl-black.jpg to 510x1234
+[2026-02-27 16:44:18.082260] Resized: C:/Users/Asus/Desktop/340 обрізані фото\K18868bl-black\4_image_K18868bl-black.jpg to 510x3414
+[2026-02-27 16:44:19.402062] Resized: C:/Users/Asus/Desktop/340 обрізані фото\L87598-01\6_image_L87598-01.jpg to 982x510
+[2026-02-27 16:44:20.650567] Resized: C:/Users/Asus/Desktop/340 обрізані фото\Nevada537moro\002_image_Nevada537moro.jpg to 1045x510
+[2026-02-27 16:44:22.218176] ======= DONE PROCESSING =======
