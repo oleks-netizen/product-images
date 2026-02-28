@@ -239,3 +239,6 @@
 [2026-02-28 16:53:09.903496] Resized: C:/Users/Asus/Desktop/дублі фото/обрізані дублі\V1115GX19-brown\1_image_V1115GX19-brown.jpg to 803x510
 [2026-02-28 16:53:09.950881] Resized: C:/Users/Asus/Desktop/дублі фото/обрізані дублі\V1115GX19-brown\2_image_V1115GX19-brown.jpg to 803x510
 [2026-02-28 16:53:10.482153] ======= DONE PROCESSING =======
+[2026-02-28 18:11:13.922155] ======= START =======
+[2026-02-28 18:11:13.937784] Input folder: C:/Users/Asus/Desktop/дублі фото/обрізані дублі
+[2026-02-28 18:11:32.777507] ======= DONE PROCESSING =======
