@@ -200,3 +200,42 @@
 [2026-02-27 16:44:19.402062] Resized: C:/Users/Asus/Desktop/340 обрізані фото\L87598-01\6_image_L87598-01.jpg to 982x510
 [2026-02-27 16:44:20.650567] Resized: C:/Users/Asus/Desktop/340 обрізані фото\Nevada537moro\002_image_Nevada537moro.jpg to 1045x510
 [2026-02-27 16:44:22.218176] ======= DONE PROCESSING =======
+[2026-02-28 16:52:55.387632] ======= START =======
+[2026-02-28 16:52:55.387632] Input folder: C:/Users/Asus/Desktop/дублі фото/обрізані дублі
+[2026-02-28 16:52:55.903520] Resized: C:/Users/Asus/Desktop/дублі фото/обрізані дублі\125v1genav9\001_image_125v1genav9.jpg to 912x510
+[2026-02-28 16:52:56.403506] Resized: C:/Users/Asus/Desktop/дублі фото/обрізані дублі\14085\10_image_14085.jpg to 510x945
+[2026-02-28 16:52:56.503977] Resized: C:/Users/Asus/Desktop/дублі фото/обрізані дублі\14088\002_image_14088.jpeg to 862x510
+[2026-02-28 16:52:56.606168] Resized: C:/Users/Asus/Desktop/дублі фото/обрізані дублі\14088\9_image_14088.jpeg to 699x510
+[2026-02-28 16:52:56.731740] Resized: C:/Users/Asus/Desktop/дублі фото/обрізані дублі\14114\010_image_14114.jpg to 622x510
+[2026-02-28 16:52:56.778628] Resized: C:/Users/Asus/Desktop/дублі фото/обрізані дублі\14114\7_image_14114.jpeg to 622x510
+[2026-02-28 16:52:57.154168] Resized: C:/Users/Asus/Desktop/дублі фото/обрізані дублі\14227\002_image_14227.jpg to 886x510
+[2026-02-28 16:52:57.966789] Resized: C:/Users/Asus/Desktop/дублі фото/обрізані дублі\14397\6_image_14397.jpg to 510x1040
+[2026-02-28 16:52:58.153834] Resized: C:/Users/Asus/Desktop/дублі фото/обрізані дублі\14404\6_image_14404.jpg to 1403x510
+[2026-02-28 16:52:58.371647] Resized: C:/Users/Asus/Desktop/дублі фото/обрізані дублі\14422\001_image_14422.jpg to 856x510
+[2026-02-28 16:52:58.481793] Resized: C:/Users/Asus/Desktop/дублі фото/обрізані дублі\14429\8_image_14429.jpg to 933x510
+[2026-02-28 16:52:58.621230] Resized: C:/Users/Asus/Desktop/дублі фото/обрізані дублі\14439\002_image_14439.jpg to 1074x510
+[2026-02-28 16:53:00.786550] Converted and deleted original PNG: C:/Users/Asus/Desktop/дублі фото/обрізані дублі\14607\1_image_14607.png
+[2026-02-28 16:53:00.810252] Converted and deleted original PNG: C:/Users/Asus/Desktop/дублі фото/обрізані дублі\14607\2_image_14607.png
+[2026-02-28 16:53:00.857141] Resized: C:/Users/Asus/Desktop/дублі фото/обрізані дублі\14607\2_image_14607.jpg to 510x615
+[2026-02-28 16:53:00.899507] Converted and deleted original PNG: C:/Users/Asus/Desktop/дублі фото/обрізані дублі\14607\5_image_14607.png
+[2026-02-28 16:53:00.950417] Converted and deleted original PNG: C:/Users/Asus/Desktop/дублі фото/обрізані дублі\14609\005_image_14609.png
+[2026-02-28 16:53:00.996865] Converted and deleted original PNG: C:/Users/Asus/Desktop/дублі фото/обрізані дублі\14609\009_image_14609.png
+[2026-02-28 16:53:01.044182] Converted and deleted original PNG: C:/Users/Asus/Desktop/дублі фото/обрізані дублі\14609\8_image_14609.png
+[2026-02-28 16:53:01.372903] Resized: C:/Users/Asus/Desktop/дублі фото/обрізані дублі\14680\8_image_14680.jpg to 939x510
+[2026-02-28 16:53:01.887846] Resized: C:/Users/Asus/Desktop/дублі фото/обрізані дублі\14752\011_image_14752.jpg to 510x795
+[2026-02-28 16:53:02.075995] Resized: C:/Users/Asus/Desktop/дублі фото/обрізані дублі\14893\001_image_14893.jpg to 846x510
+[2026-02-28 16:53:02.544962] Resized: C:/Users/Asus/Desktop/дублі фото/обрізані дублі\14917\014_image_14917.jpg to 510x676
+[2026-02-28 16:53:02.731994] Resized: C:/Users/Asus/Desktop/дублі фото/обрізані дублі\14923\7_image_14923.jpg to 1076x510
+[2026-02-28 16:53:02.785784] Resized: C:/Users/Asus/Desktop/дублі фото/обрізані дублі\14924\001_image_14924.jpg to 510x913
+[2026-02-28 16:53:02.872153] Resized: C:/Users/Asus/Desktop/дублі фото/обрізані дублі\14924\8_image_14924.jpeg to 510x831
+[2026-02-28 16:53:05.763470] Converted and deleted original PNG: C:/Users/Asus/Desktop/дублі фото/обрізані дублі\20041\1_image_20041.png
+[2026-02-28 16:53:06.154283] Resized: C:/Users/Asus/Desktop/дублі фото/обрізані дублі\20075\9_image_20075.jpg to 510x739
+[2026-02-28 16:53:06.185540] Converted and deleted original PNG: C:/Users/Asus/Desktop/дублі фото/обрізані дублі\20080\001_image_20080.png
+[2026-02-28 16:53:06.232427] Converted and deleted original PNG: C:/Users/Asus/Desktop/дублі фото/обрізані дублі\20080\002_image_20080.png
+[2026-02-28 16:53:06.294474] Converted and deleted original PNG: C:/Users/Asus/Desktop/дублі фото/обрізані дублі\20080\3_image_20080.png
+[2026-02-28 16:53:06.370106] Resized: C:/Users/Asus/Desktop/дублі фото/обрізані дублі\20083\10_image_20083.jpg to 882x510
+[2026-02-28 16:53:09.138224] Resized: C:/Users/Asus/Desktop/дублі фото/обрізані дублі\K11031-black\002_image_K11031-black.jpg to 510x828
+[2026-02-28 16:53:09.325772] Resized: C:/Users/Asus/Desktop/дублі фото/обрізані дублі\K12335-blue\7_image_K12335-blue.jpg to 886x510
+[2026-02-28 16:53:09.903496] Resized: C:/Users/Asus/Desktop/дублі фото/обрізані дублі\V1115GX19-brown\1_image_V1115GX19-brown.jpg to 803x510
+[2026-02-28 16:53:09.950881] Resized: C:/Users/Asus/Desktop/дублі фото/обрізані дублі\V1115GX19-brown\2_image_V1115GX19-brown.jpg to 803x510
+[2026-02-28 16:53:10.482153] ======= DONE PROCESSING =======
