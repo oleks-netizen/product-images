@@ -257,3 +257,139 @@
 [2026-03-06 15:38:24.254762] Resized: C:/Users/Asus/Desktop/1 20.01.2026/341/фото обрізані 341\1111-05-32\5_image_1111-05-32.jpg to 510x740
 [2026-03-06 15:38:24.317282] Resized: C:/Users/Asus/Desktop/1 20.01.2026/341/фото обрізані 341\1314-06-38\5_image_1314-06-38.jpg to 966x510
 [2026-03-06 15:38:25.286323] ======= DONE PROCESSING =======
+[2026-03-10 17:22:03.425642] ======= START =======
+[2026-03-10 17:22:03.425642] Input folder: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані
+[2026-03-10 17:22:03.441266] Renamed: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38416-160\6_image_BV38416-160-Photoroom.png -> C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38416-160\6_image_BV38416-160.png
+[2026-03-10 17:22:03.441266] Renamed: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38416-160\7_image_BV38416-160-Photoroom.png -> C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38416-160\7_image_BV38416-160.png
+[2026-03-10 17:22:03.441266] Renamed: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38416-160\8_image_BV38416-160-Photoroom.png -> C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38416-160\8_image_BV38416-160.png
+[2026-03-10 17:22:03.441266] Renamed: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38416-2924\4_image_BV38416-2924-Photoroom.png -> C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38416-2924\4_image_BV38416-2924.png
+[2026-03-10 17:22:03.456890] Renamed: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38416-2924\6_image_BV38416-2924-Photoroom.png -> C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38416-2924\6_image_BV38416-2924.png
+[2026-03-10 17:22:03.456890] Renamed: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38416-2924\7_image_BV38416-2924-Photoroom.png -> C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38416-2924\7_image_BV38416-2924.png
+[2026-03-10 17:22:03.456890] Renamed: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38416-2924\8_image_BV38416-2924-Photoroom.png -> C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38416-2924\8_image_BV38416-2924.png
+[2026-03-10 17:22:03.456890] Renamed: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38525-2802\008_image_BV38525-2802-Photoroom.png -> C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38525-2802\008_image_BV38525-2802.png
+[2026-03-10 17:22:03.456890] Renamed: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38525-2802\4_image_BV38525-2802-Photoroom.png -> C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38525-2802\4_image_BV38525-2802.png
+[2026-03-10 17:22:03.456890] Renamed: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38525-2802\6_image_BV38525-2802-Photoroom.png -> C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38525-2802\6_image_BV38525-2802.png
+[2026-03-10 17:22:03.456890] Renamed: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38648-2807\001_image_BV38648-2807-Photoroom.png -> C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38648-2807\001_image_BV38648-2807.png
+[2026-03-10 17:22:03.456890] Renamed: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38648-2807\008_image_BV38648-2807-Photoroom.png -> C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38648-2807\008_image_BV38648-2807.png
+[2026-03-10 17:22:03.456890] Renamed: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38648-2807\4_image_BV38648-2807-Photoroom.png -> C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38648-2807\4_image_BV38648-2807.png
+[2026-03-10 17:22:03.456890] Renamed: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38648-2807\5_image_BV38648-2807-Photoroom.png -> C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38648-2807\5_image_BV38648-2807.png
+[2026-03-10 17:22:03.456890] Renamed: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38648-2807\6_image_BV38648-2807-Photoroom.png -> C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38648-2807\6_image_BV38648-2807.png
+[2026-03-10 17:22:03.456890] Renamed: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38648-2807\7_image_BV38648-2807-Photoroom.png -> C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38648-2807\7_image_BV38648-2807.png
+[2026-03-10 17:22:03.456890] Renamed: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38648-306\001_image_BV38648-306-Photoroom.png -> C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38648-306\001_image_BV38648-306.png
+[2026-03-10 17:22:03.472516] Renamed: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38648-306\002_image_BV38648-306-Photoroom.png -> C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38648-306\002_image_BV38648-306.png
+[2026-03-10 17:22:03.472516] Renamed: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38648-306\5_image_BV38648-306-Photoroom.png -> C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38648-306\5_image_BV38648-306.png
+[2026-03-10 17:22:03.472516] Renamed: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38648-306\6_image_BV38648-306-Photoroom.png -> C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38648-306\6_image_BV38648-306.png
+[2026-03-10 17:22:03.472516] Renamed: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38648-306\7_image_BV38648-306-Photoroom.png -> C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38648-306\7_image_BV38648-306.png
+[2026-03-10 17:22:03.472516] Renamed: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38753-2924\001_image_BV38753-2924-Photoroom.png -> C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38753-2924\001_image_BV38753-2924.png
+[2026-03-10 17:22:03.472516] Renamed: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38753-2924\007_image_BV38753-2924-Photoroom.png -> C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38753-2924\007_image_BV38753-2924.png
+[2026-03-10 17:22:03.472516] Renamed: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38753-2924\4_image_BV38753-2924-Photoroom.png -> C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38753-2924\4_image_BV38753-2924.png
+[2026-03-10 17:22:03.472516] Renamed: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38753-2924\5_image_BV38753-2924-Photoroom.png -> C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38753-2924\5_image_BV38753-2924.png
+[2026-03-10 17:22:03.472516] Renamed: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38753-2924\6_image_BV38753-2924-Photoroom.png -> C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38753-2924\6_image_BV38753-2924.png
+[2026-03-10 17:22:03.472516] Renamed: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38753-2924\8_image_BV38753-2924-Photoroom.png -> C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38753-2924\8_image_BV38753-2924.png
+[2026-03-10 17:22:03.472516] Renamed: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38792-1\001_image_BV38792-1-Photoroom.png -> C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38792-1\001_image_BV38792-1.png
+[2026-03-10 17:22:03.472516] Renamed: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38792-1\009_image_BV38792-1-Photoroom.png -> C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38792-1\009_image_BV38792-1.png
+[2026-03-10 17:22:03.472516] Renamed: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38792-1\4_image_BV38792-1-Photoroom.png -> C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38792-1\4_image_BV38792-1.png
+[2026-03-10 17:22:03.472516] Renamed: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38792-1\5_image_BV38792-1-Photoroom.png -> C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38792-1\5_image_BV38792-1.png
+[2026-03-10 17:22:03.488141] Renamed: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38792-1\6_image_BV38792-1-Photoroom.png -> C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38792-1\6_image_BV38792-1.png
+[2026-03-10 17:22:03.488141] Renamed: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38792-1\7_image_BV38792-1-Photoroom.png -> C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38792-1\7_image_BV38792-1.png
+[2026-03-10 17:22:03.488141] Renamed: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38792-1\8_image_BV38792-1-Photoroom.png -> C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38792-1\8_image_BV38792-1.png
+[2026-03-10 17:22:03.488141] Renamed: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38792-160\001_image_BV38792-160-Photoroom.png -> C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38792-160\001_image_BV38792-160.png
+[2026-03-10 17:22:03.488141] Renamed: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38792-160\007_image_BV38792-160-Photoroom.png -> C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38792-160\007_image_BV38792-160.png
+[2026-03-10 17:22:03.488141] Renamed: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38792-160\4_image_BV38792-160-Photoroom (1).png -> C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38792-160\4_image_BV38792-160 (1).png
+[2026-03-10 17:22:03.488141] Renamed: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38792-160\4_image_BV38792-160-Photoroom.png -> C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38792-160\4_image_BV38792-160.png
+[2026-03-10 17:22:03.488141] Renamed: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38792-160\5_image_BV38792-160-Photoroom.png -> C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38792-160\5_image_BV38792-160.png
+[2026-03-10 17:22:03.488141] Renamed: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38792-160\6_image_BV38792-160-Photoroom.png -> C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38792-160\6_image_BV38792-160.png
+[2026-03-10 17:22:03.488141] Renamed: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38792-160\8_image_BV38792-160-Photoroom.png -> C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38792-160\8_image_BV38792-160.png
+[2026-03-10 17:22:03.613136] Resized: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\2212-45-31\1_image_2212-45-31.jpg to 559x510
+[2026-03-10 17:22:03.660010] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\5215901\1_image_5215901.png
+[2026-03-10 17:22:03.691262] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\5218401\001_image_5218401.png
+[2026-03-10 17:22:03.831882] Resized: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BN-GC-23-beige-kr\001_image_BN-GC-23-beige-kr.jpg to 510x1137
+[2026-03-10 17:22:03.878765] Resized: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BN-GC-23-g-kr\1_image_BN-GC-23-g-kr.jpg to 616x510
+[2026-03-10 17:22:03.910006] Resized: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BN-GC-23-iz\001_image_BN-GC-23-iz.jpg to 890x510
+[2026-03-10 17:22:03.956878] Resized: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BN-GC-23-o\001_image_BN-GC-23-o.jpg to 886x510
+[2026-03-10 17:22:04.003754] Resized: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BN-GC-23-red\001_image_BN-GC-23-red.jpg to 874x510
+[2026-03-10 17:22:04.050626] Resized: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BN-GC-24-g\1_image_BN-GC-24-g.jpg to 631x510
+[2026-03-10 17:22:04.081878] Resized: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BN-GC-24-iz\1_image_BN-GC-24-iz.jpg to 631x510
+[2026-03-10 17:22:04.097502] Resized: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BN-GC-24-k\1_image_BN-GC-24-k.jpg to 632x510
+[2026-03-10 17:22:04.128748] Resized: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BN-GC-24-k-kr\1_image_BN-GC-24-k-kr.jpg to 632x510
+[2026-03-10 17:22:04.160000] Resized: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BN-GC-24-malachite\1_image_BN-GC-24-malachite.jpg to 632x510
+[2026-03-10 17:22:04.191248] Resized: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BN-GC-24-navy-blue\1_image_BN-GC-24-navy-blue.jpg to 631x510
+[2026-03-10 17:22:04.222499] Resized: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BN-GC-24-nn\1_image_BN-GC-24-nn.jpg to 630x510
+[2026-03-10 17:22:04.253749] Resized: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BN-GC-24-o\1_image_BN-GC-24-o.jpg to 631x510
+[2026-03-10 17:22:04.284999] Resized: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BN-GC-24-red\1_image_BN-GC-24-red.jpg to 632x510
+[2026-03-10 17:22:04.331872] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38648-2807\001_image_BV38648-2807.png
+[2026-03-10 17:22:04.378745] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38648-306\001_image_BV38648-306.png
+[2026-03-10 17:22:04.441241] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38753-2924\001_image_BV38753-2924.png
+[2026-03-10 17:22:04.519366] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38792-1\001_image_BV38792-1.png
+[2026-03-10 17:22:04.566245] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38792-160\001_image_BV38792-160.png
+[2026-03-10 17:22:04.644364] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\5215901\2_image_5215901.png
+[2026-03-10 17:22:04.753734] Resized: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BN-CB-4-g\002_image_BN-CB-4-g.jpg to 903x510
+[2026-03-10 17:22:04.800607] Resized: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BN-CB-4-navy-blue\002_image_BN-CB-4-navy-blue.jpg to 926x510
+[2026-03-10 17:22:04.831858] Resized: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BN-CB-4-nn\002_image_BN-CB-4-nn.jpg to 1236x510
+[2026-03-10 17:22:05.003729] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38648-306\002_image_BV38648-306.png
+[2026-03-10 17:22:05.113103] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\5218401\3_image_5218401.png
+[2026-03-10 17:22:05.191225] Resized: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BN-BV-1-g\3_image_BN-BV-1-g.jpg to 1768x510
+[2026-03-10 17:22:05.238097] Resized: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BN-BV-1-iz\3_image_BN-BV-1-iz.jpg to 1768x510
+[2026-03-10 17:22:05.284974] Resized: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BN-BV-1-nn\3_image_BN-BV-1-nn.jpg to 1768x510
+[2026-03-10 17:22:05.348678] Resized: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BN-BV-1-o\3_image_BN-BV-1-o.jpg to 1768x510
+[2026-03-10 17:22:05.411175] Resized: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BN-GC-23-choko\3_image_BN-GC-23-choko.jpg to 884x510
+[2026-03-10 17:22:05.536171] Resized: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\2212-45-31\4_image_2212-45-31.jpg to 1065x510
+[2026-03-10 17:22:05.583046] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\5218401\4_image_5218401.png
+[2026-03-10 17:22:05.676794] Resized: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BN-GC-23-choko\004_image_BN-GC-23-choko.jpg to 617x510
+[2026-03-10 17:22:05.708045] Resized: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BN-GC-23-g\004_image_BN-GC-23-g.jpg to 616x510
+[2026-03-10 17:22:05.817415] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38416-2924\4_image_BV38416-2924.png
+[2026-03-10 17:22:05.864289] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38525-2802\4_image_BV38525-2802.png
+[2026-03-10 17:22:05.926786] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38648-2807\4_image_BV38648-2807.png
+[2026-03-10 17:22:05.973662] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38753-2924\4_image_BV38753-2924.png
+[2026-03-10 17:22:06.036160] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38792-1\4_image_BV38792-1.png
+[2026-03-10 17:22:06.083032] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38792-160\4_image_BV38792-160 (1).png
+[2026-03-10 17:22:06.129907] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38792-160\4_image_BV38792-160.png
+[2026-03-10 17:22:06.254904] Resized: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BN-CB-4-navy-blue\005_image_BN-CB-4-navy-blue.jpg to 999x510
+[2026-03-10 17:22:06.286153] Resized: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BN-GC-23-iz\005_image_BN-GC-23-iz.jpg to 617x510
+[2026-03-10 17:22:06.333029] Resized: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BN-GC-23-nn\005_image_BN-GC-23-nn.jpg to 616x510
+[2026-03-10 17:22:06.442401] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38648-2807\5_image_BV38648-2807.png
+[2026-03-10 17:22:06.473651] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38648-306\5_image_BV38648-306.png
+[2026-03-10 17:22:06.536146] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38753-2924\5_image_BV38753-2924.png
+[2026-03-10 17:22:06.614272] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38792-1\5_image_BV38792-1.png
+[2026-03-10 17:22:06.661147] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38792-160\5_image_BV38792-160.png
+[2026-03-10 17:22:06.708018] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\5215901\6_image_5215901.png
+[2026-03-10 17:22:06.754892] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\5218401\6_image_5218401.png
+[2026-03-10 17:22:06.848640] Resized: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BN-CB-4-iz\6_image_BN-CB-4-iz.jpg to 1214x510
+[2026-03-10 17:22:06.895514] Resized: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BN-CB-4-k-kr\6_image_BN-CB-4-k-kr.jpg to 1207x510
+[2026-03-10 17:22:06.926766] Resized: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BN-GC-23-malachite\006_image_BN-GC-23-malachite.jpg to 616x510
+[2026-03-10 17:22:06.958013] Resized: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BN-GC-23-navy-blue\006_image_BN-GC-23-navy-blue.jpg to 615x510
+[2026-03-10 17:22:06.989263] Resized: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BN-GC-23-o\006_image_BN-GC-23-o.jpg to 616x510
+[2026-03-10 17:22:07.020518] Resized: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BN-GC-23-red\006_image_BN-GC-23-red.jpg to 619x510
+[2026-03-10 17:22:07.051762] Resized: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BN-GC-24-1-iz\006_image_BN-GC-24-1-iz.jpg to 715x510
+[2026-03-10 17:22:07.098635] Resized: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BN-GC-24-choko\006_image_BN-GC-24-choko.jpg to 631x510
+[2026-03-10 17:22:07.161132] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38416-160\6_image_BV38416-160.png
+[2026-03-10 17:22:07.223630] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38416-2924\6_image_BV38416-2924.png
+[2026-03-10 17:22:07.270512] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38525-2802\6_image_BV38525-2802.png
+[2026-03-10 17:22:07.333003] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38648-2807\6_image_BV38648-2807.png
+[2026-03-10 17:22:07.379875] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38648-306\6_image_BV38648-306.png
+[2026-03-10 17:22:07.426751] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38753-2924\6_image_BV38753-2924.png
+[2026-03-10 17:22:07.489252] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38792-1\6_image_BV38792-1.png
+[2026-03-10 17:22:07.536125] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38792-160\6_image_BV38792-160.png
+[2026-03-10 17:22:07.598621] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\5215901\7_image_5215901.png
+[2026-03-10 17:22:07.629872] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\5218401\7_image_5218401.png
+[2026-03-10 17:22:07.754868] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38416-160\7_image_BV38416-160.png
+[2026-03-10 17:22:07.817368] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38416-2924\7_image_BV38416-2924.png
+[2026-03-10 17:22:07.879865] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38648-2807\7_image_BV38648-2807.png
+[2026-03-10 17:22:07.942362] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38648-306\7_image_BV38648-306.png
+[2026-03-10 17:22:07.989236] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38753-2924\007_image_BV38753-2924.png
+[2026-03-10 17:22:08.051735] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38792-1\7_image_BV38792-1.png
+[2026-03-10 17:22:08.082984] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38792-160\007_image_BV38792-160.png
+[2026-03-10 17:22:08.145485] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\5215901\8_image_5215901.png
+[2026-03-10 17:22:08.192361] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\5218401\8_image_5218401.png
+[2026-03-10 17:22:08.286106] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38416-160\8_image_BV38416-160.png
+[2026-03-10 17:22:08.332979] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38416-2924\8_image_BV38416-2924.png
+[2026-03-10 17:22:08.379851] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38525-2802\008_image_BV38525-2802.png
+[2026-03-10 17:22:08.426726] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38648-2807\008_image_BV38648-2807.png
+[2026-03-10 17:22:08.489226] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38753-2924\8_image_BV38753-2924.png
+[2026-03-10 17:22:08.551723] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38792-1\8_image_BV38792-1.png
+[2026-03-10 17:22:08.614221] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38792-160\8_image_BV38792-160.png
+[2026-03-10 17:22:08.645470] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\5215901\9_image_5215901.png
+[2026-03-10 17:22:08.754845] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\BV38792-1\009_image_BV38792-1.png
+[2026-03-10 17:22:08.817342] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\5215901\10_image_5215901.png
+[2026-03-10 17:22:08.864217] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\5218401\10_image_5218401.png
+[2026-03-10 17:22:09.098584] ======= DONE PROCESSING =======
