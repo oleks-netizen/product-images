@@ -393,3 +393,72 @@
 [2026-03-10 17:22:08.817342] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\5215901\10_image_5215901.png
 [2026-03-10 17:22:08.864217] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 342/фото 342/для заливу обрізані\5218401\10_image_5218401.png
 [2026-03-10 17:22:09.098584] ======= DONE PROCESSING =======
+[2026-03-12 10:37:57.347266] ======= START =======
+[2026-03-12 10:37:57.347266] Input folder: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343
+[2026-03-12 10:37:57.494117] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\RB112 BERRY M\001_image_RB112 BERRY M.png
+[2026-03-12 10:37:57.516249] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\RB112 BLK_RHUMBA\001_image_RB112 BLK_RHUMBA.png
+[2026-03-12 10:37:57.547500] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\RB112 BLUE M\001_image_RB112 BLUE M.png
+[2026-03-12 10:37:57.578751] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\RB112 LIME M\001_image_RB112 LIME M.png
+[2026-03-12 10:37:57.616514] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\RB112 PLUM M\001_image_RB112 PLUM M.png
+[2026-03-12 10:37:57.647771] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\RB112 RED M\001_image_RB112 RED M.png
+[2026-03-12 10:37:57.694644] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\S5 BLUE M\001_image_S5 BLUE M.png
+[2026-03-12 10:37:57.732412] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\S5 OIL TAN\001_image_S5 OIL TAN.png
+[2026-03-12 10:37:57.832677] Resized: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\BN-SB-16-choko\002_image_BN-SB-16-choko.jpg to 745x510
+[2026-03-12 10:37:57.863929] Resized: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\BN-SB-16-k\2_image_BN-SB-16-k.jpg to 741x510
+[2026-03-12 10:37:57.917316] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\RB112 BERRY M\002_image_RB112 BERRY M.png
+[2026-03-12 10:37:57.948571] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\RB112 BLK_RHUMBA\002_image_RB112 BLK_RHUMBA.png
+[2026-03-12 10:37:57.995445] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\RB112 BLUE M\002_image_RB112 BLUE M.png
+[2026-03-12 10:37:58.033212] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\RB112 LIME M\002_image_RB112 LIME M.png
+[2026-03-12 10:37:58.080086] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\RB112 PLUM M\002_image_RB112 PLUM M.png
+[2026-03-12 10:37:58.117853] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\RB112 RED M\002_image_RB112 RED M.png
+[2026-03-12 10:37:58.164736] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\S5 BLUE M\002_image_S5 BLUE M.png
+[2026-03-12 10:37:58.195984] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\S5 OIL TAN\002_image_S5 OIL TAN.png
+[2026-03-12 10:37:58.296249] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\RB112 BLK_RHUMBA\3_image_RB112 BLK_RHUMBA.png
+[2026-03-12 10:37:58.334021] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\RB112 BLUE M\003_image_RB112 BLUE M.png
+[2026-03-12 10:37:58.396523] Resized: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\BN-OP-35-k\4_image_BN-OP-35-k.jpg to 510x694
+[2026-03-12 10:37:58.434285] Resized: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\BN-OP-35-light\4_image_BN-OP-35-light.jpg to 510x694
+[2026-03-12 10:37:58.465535] Resized: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\BN-OP-35-light-beige\4_image_BN-OP-35-light-beige.jpg to 510x695
+[2026-03-12 10:37:58.534548] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\RB112 BERRY M\004_image_RB112 BERRY M.png
+[2026-03-12 10:37:58.565798] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\RB112 BLUE M\4_image_RB112 BLUE M.png
+[2026-03-12 10:37:58.597049] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\RB112 LIME M\004_image_RB112 LIME M.png
+[2026-03-12 10:37:58.650437] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\RB112 PLUM M\004_image_RB112 PLUM M.png
+[2026-03-12 10:37:58.681691] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\RB112 RED M\004_image_RB112 RED M.png
+[2026-03-12 10:37:58.750705] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\S5 BLUE M\4_image_S5 BLUE M.png
+[2026-03-12 10:37:58.797579] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\S5 OIL TAN\4_image_S5 OIL TAN.png
+[2026-03-12 10:37:58.866596] Resized: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\BN-OP-34-g\5_image_BN-OP-34-g.jpg to 765x510
+[2026-03-12 10:37:58.919981] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\RB112 BERRY M\5_image_RB112 BERRY M.png
+[2026-03-12 10:37:58.951237] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\RB112 BLK_RHUMBA\5_image_RB112 BLK_RHUMBA.png
+[2026-03-12 10:37:58.998106] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\RB112 LIME M\5_image_RB112 LIME M.png
+[2026-03-12 10:37:59.020246] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\RB112 PLUM M\5_image_RB112 PLUM M.png
+[2026-03-12 10:37:59.067125] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\RB112 RED M\5_image_RB112 RED M.png
+[2026-03-12 10:37:59.098373] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\S5 BLUE M\5_image_S5 BLUE M.png
+[2026-03-12 10:37:59.151773] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\S5 OIL TAN\5_image_S5 OIL TAN.png
+[2026-03-12 10:37:59.214270] Resized: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\BN-OP-33-malachite\6_image_BN-OP-33-malachite.jpg to 715x510
+[2026-03-12 10:37:59.236414] Resized: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\BN-OP-33-navy-blue\6_image_BN-OP-33-navy-blue.jpg to 717x510
+[2026-03-12 10:37:59.267663] Resized: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\BN-OP-33-vin\6_image_BN-OP-33-vin.jpg to 717x510
+[2026-03-12 10:37:59.321045] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\RB112 BERRY M\6_image_RB112 BERRY M.png
+[2026-03-12 10:37:59.383547] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\RB112 BLK_RHUMBA\6_image_RB112 BLK_RHUMBA.png
+[2026-03-12 10:37:59.436935] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\RB112 BLUE M\6_image_RB112 BLUE M.png
+[2026-03-12 10:37:59.515058] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\RB112 LIME M\6_image_RB112 LIME M.png
+[2026-03-12 10:37:59.568455] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\RB112 PLUM M\6_image_RB112 PLUM M.png
+[2026-03-12 10:37:59.637468] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\RB112 RED M\6_image_RB112 RED M.png
+[2026-03-12 10:37:59.684343] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\S5 BLUE M\6_image_S5 BLUE M.png
+[2026-03-12 10:37:59.722108] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\S5 OIL TAN\6_image_S5 OIL TAN.png
+[2026-03-12 10:37:59.768987] Resized: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\BN-OP-33-navy-blue\7_image_BN-OP-33-navy-blue.jpg to 716x510
+[2026-03-12 10:37:59.822377] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\S5 BLUE M\7_image_S5 BLUE M.png
+[2026-03-12 10:37:59.869257] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\S5 OIL TAN\7_image_S5 OIL TAN.png
+[2026-03-12 10:37:59.900506] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\RB112 BERRY M\008_image_RB112 BERRY M.png
+[2026-03-12 10:37:59.953912] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\RB112 BLK_RHUMBA\008_image_RB112 BLK_RHUMBA.png
+[2026-03-12 10:37:59.985175] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\RB112 BLUE M\008_image_RB112 BLUE M.png
+[2026-03-12 10:38:00.022923] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\RB112 LIME M\008_image_RB112 LIME M.png
+[2026-03-12 10:38:00.069803] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\RB112 PLUM M\008_image_RB112 PLUM M.png
+[2026-03-12 10:38:00.101051] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\RB112 RED M\008_image_RB112 RED M.png
+[2026-03-12 10:38:00.138816] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\S5 BLUE M\008_image_S5 BLUE M.png
+[2026-03-12 10:38:00.185692] Resized: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\S5 BLUE M\008_image_S5 BLUE M.jpg to 510x1049
+[2026-03-12 10:38:00.201316] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\S5 OIL TAN\8_image_S5 OIL TAN.png
+[2026-03-12 10:38:00.239077] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\S5 BLUE M\009_image_S5 BLUE M.png
+[2026-03-12 10:38:00.270329] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\S5 OIL TAN\9_image_S5 OIL TAN.png
+[2026-03-12 10:38:00.339333] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\S5 OIL TAN\10_image_S5 OIL TAN.png
+[2026-03-12 10:38:00.401836] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\S5 OIL TAN\11_image_S5 OIL TAN.png
+[2026-03-12 10:38:00.439595] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\S5 OIL TAN\012_image_S5 OIL TAN.png
+[2026-03-12 10:38:00.555486] ======= DONE PROCESSING =======
