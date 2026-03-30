@@ -476,3 +476,6 @@
 [2026-03-30 16:27:46.746108] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/344/без фоторум\BN-BAG-62-g\6_image_BN-BAG-62-g.png
 [2026-03-30 16:27:47.997301] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/344/без фоторум\BN-BAG-62-g\7_image_BN-BAG-62-g.png
 [2026-03-30 16:27:53.110173] ======= DONE PROCESSING =======
+[2026-03-30 16:35:32.648999] ======= START =======
+[2026-03-30 16:35:32.648999] Input folder: C:/Users/Asus/Desktop/1 редагування2026/344/без фоторум
+[2026-03-30 16:35:37.410983] ======= DONE PROCESSING =======
