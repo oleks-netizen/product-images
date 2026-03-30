@@ -462,3 +462,17 @@
 [2026-03-12 10:38:00.401836] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\S5 OIL TAN\11_image_S5 OIL TAN.png
 [2026-03-12 10:38:00.439595] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 20.01.2026/343/фото 343/обрізані 343\S5 OIL TAN\012_image_S5 OIL TAN.png
 [2026-03-12 10:38:00.555486] ======= DONE PROCESSING =======
+[2026-03-30 16:27:39.684722] ======= START =======
+[2026-03-30 16:27:39.684722] Input folder: C:/Users/Asus/Desktop/1 редагування2026/344/без фоторум
+[2026-03-30 16:27:40.540174] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/344/без фоторум\BN-BAG-62-g\001_image_BN-BAG-62-g.png
+[2026-03-30 16:27:41.690340] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/344/без фоторум\6977703651713\002_image_6977703651713.png
+[2026-03-30 16:27:41.982033] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/344/без фоторум\BN-BAG-62-g\002_image_BN-BAG-62-g.png
+[2026-03-30 16:27:43.215270] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/344/без фоторум\6977703651713\3_image_6977703651713.png
+[2026-03-30 16:27:43.417303] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/344/без фоторум\BN-BAG-62-g\3_image_BN-BAG-62-g.png
+[2026-03-30 16:27:45.282102] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/344/без фоторум\BN-BAG-62-g\5_image_BN-BAG-62-g.png
+[2026-03-30 16:27:45.559740] Resized: C:/Users/Asus/Desktop/1 редагування2026/344/без фоторум\L87025-13\5_image_L87025-13.jpg to 873x510
+[2026-03-30 16:27:45.758933] Resized: C:/Users/Asus/Desktop/1 редагування2026/344/без фоторум\L87114-108\5_image_L87114-108.jpg to 977x510
+[2026-03-30 16:27:46.000162] Resized: C:/Users/Asus/Desktop/1 редагування2026/344/без фоторум\L87713-97\5_image_L87713-97.jpg to 880x510
+[2026-03-30 16:27:46.746108] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/344/без фоторум\BN-BAG-62-g\6_image_BN-BAG-62-g.png
+[2026-03-30 16:27:47.997301] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/344/без фоторум\BN-BAG-62-g\7_image_BN-BAG-62-g.png
+[2026-03-30 16:27:53.110173] ======= DONE PROCESSING =======
