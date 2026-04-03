@@ -493,3 +493,164 @@
 [2026-03-30 17:55:54.888872] ======= START =======
 [2026-03-30 17:55:54.888872] Input folder: C:/Users/Asus/Desktop/1 редагування2026/344/без фоторум
 [2026-03-30 17:55:59.286098] ======= DONE PROCESSING =======
+[2026-04-03 19:49:51.722214] ======= START =======
+[2026-04-03 19:49:51.724183] Input folder: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані
+[2026-04-03 19:49:51.740261] Renamed: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\20906_1\006_image_20906_1-Photoroom (1).png -> C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\20906_1\006_image_20906_1 (1).png
+[2026-04-03 19:49:51.747261] Renamed: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39032-191\7_image_BV39032-191-Photoroom.png -> C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39032-191\7_image_BV39032-191.png
+[2026-04-03 19:49:51.748264] Renamed: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39139-1\001_image_BV39139-1-Photoroom.png -> C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39139-1\001_image_BV39139-1.png
+[2026-04-03 19:49:51.749519] Renamed: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39139-1\008_image_BV39139-1-Photoroom.png -> C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39139-1\008_image_BV39139-1.png
+[2026-04-03 19:49:51.751515] Renamed: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39139-1\4_image_BV39139-1-Photoroom.png -> C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39139-1\4_image_BV39139-1.png
+[2026-04-03 19:49:51.753516] Renamed: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39223-145\008_image_BV39223-145-Photoroom.png -> C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39223-145\008_image_BV39223-145.png
+[2026-04-03 19:49:51.754516] Renamed: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39223-145\6_image_BV39223-145-Photoroom.png -> C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39223-145\6_image_BV39223-145.png
+[2026-04-03 19:49:51.755517] Renamed: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39223-145\7_image_BV39223-145-Photoroom.png -> C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39223-145\7_image_BV39223-145.png
+[2026-04-03 19:49:51.756993] Renamed: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39318-1\1_image_BV39318-1-Photoroom.png -> C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39318-1\1_image_BV39318-1.png
+[2026-04-03 19:49:51.756993] Renamed: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39318-1\3_image_BV39318-1-Photoroom.png -> C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39318-1\3_image_BV39318-1.png
+[2026-04-03 19:49:51.756993] Renamed: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39318-1\4_image_BV39318-1-Photoroom.png -> C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39318-1\4_image_BV39318-1.png
+[2026-04-03 19:49:51.756993] Renamed: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39318-1\5_image_BV39318-1-Photoroom.png -> C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39318-1\5_image_BV39318-1.png
+[2026-04-03 19:49:51.756993] Renamed: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39318-1\7_image_BV39318-1-Photoroom.png -> C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39318-1\7_image_BV39318-1.png
+[2026-04-03 19:49:51.756993] Renamed: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39318-232\4_image_BV39318-232-Photoroom.png -> C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39318-232\4_image_BV39318-232.png
+[2026-04-03 19:49:51.756993] Renamed: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39318-232\5_image_BV39318-232-Photoroom.png -> C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39318-232\5_image_BV39318-232.png
+[2026-04-03 19:49:51.756993] Renamed: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39318-232\6_image_BV39318-232-Photoroom.png -> C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39318-232\6_image_BV39318-232.png
+[2026-04-03 19:49:51.756993] Renamed: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39318-232\7_image_BV39318-232-Photoroom.png -> C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39318-232\7_image_BV39318-232.png
+[2026-04-03 19:49:51.756993] Renamed: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39318-76A\4_image_BV39318-76A-Photoroom.png -> C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39318-76A\4_image_BV39318-76A.png
+[2026-04-03 19:49:51.766677] Renamed: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39318-76A\5_image_BV39318-76A-Photoroom.png -> C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39318-76A\5_image_BV39318-76A.png
+[2026-04-03 19:49:51.766677] Renamed: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39318-76A\7_image_BV39318-76A-Photoroom.png -> C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39318-76A\7_image_BV39318-76A.png
+[2026-04-03 19:49:51.767674] Renamed: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39351-1\1_image_BV39351-1-Photoroom.png -> C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39351-1\1_image_BV39351-1.png
+[2026-04-03 19:49:51.768674] Renamed: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39351-1\4_image_BV39351-1-Photoroom.png -> C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39351-1\4_image_BV39351-1.png
+[2026-04-03 19:49:51.769673] Renamed: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39351-1\5_image_BV39351-1-Photoroom.png -> C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39351-1\5_image_BV39351-1.png
+[2026-04-03 19:49:51.769673] Renamed: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39351-1\6_image_BV39351-1-Photoroom.png -> C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39351-1\6_image_BV39351-1.png
+[2026-04-03 19:49:51.770674] Renamed: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39351-1\7_image_BV39351-1-Photoroom.png -> C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39351-1\7_image_BV39351-1.png
+[2026-04-03 19:49:51.771674] Renamed: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39529-1\1_image_BV39529-1-Photoroom.png -> C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39529-1\1_image_BV39529-1.png
+[2026-04-03 19:49:51.772673] Renamed: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39529-1\4_image_BV39529-1-Photoroom.png -> C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39529-1\4_image_BV39529-1.png
+[2026-04-03 19:49:51.772673] Renamed: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39529-1\6_image_BV39529-1-Photoroom.png -> C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39529-1\6_image_BV39529-1.png
+[2026-04-03 19:49:51.773674] Renamed: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39529-145\4_image_BV39529-145-Photoroom.png -> C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39529-145\4_image_BV39529-145.png
+[2026-04-03 19:49:51.774675] Renamed: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39529-145\6_image_BV39529-145-Photoroom.png -> C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39529-145\6_image_BV39529-145.png
+[2026-04-03 19:49:51.775675] Renamed: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\DRL1925-1\001_image_DRL1925-1-Photoroom.png -> C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\DRL1925-1\001_image_DRL1925-1.png
+[2026-04-03 19:49:51.776674] Renamed: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\DRL1925-1\008_image_DRL1925-1-Photoroom.png -> C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\DRL1925-1\008_image_DRL1925-1.png
+[2026-04-03 19:49:51.777676] Renamed: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\DRL1925-1\4_image_DRL1925-1-Photoroom.png -> C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\DRL1925-1\4_image_DRL1925-1.png
+[2026-04-03 19:49:51.777676] Renamed: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\DRL1925-1\5_image_DRL1925-1-Photoroom.png -> C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\DRL1925-1\5_image_DRL1925-1.png
+[2026-04-03 19:49:51.778676] Renamed: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\DRL1925-1\6_image_DRL1925-1-Photoroom.png -> C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\DRL1925-1\6_image_DRL1925-1.png
+[2026-04-03 19:49:51.779675] Renamed: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\DRL1925-1\7_image_DRL1925-1-Photoroom.png -> C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\DRL1925-1\7_image_DRL1925-1.png
+[2026-04-03 19:49:51.971202] Resized: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\2423_1_100\1_image_2423_1_100.jpg to 510x1097
+[2026-04-03 19:49:52.312361] Resized: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BN-KK-4-vin-kr\1_image_BN-KK-4-vin-kr.jpg to 510x660
+[2026-04-03 19:49:52.366774] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39139-1\001_image_BV39139-1.png
+[2026-04-03 19:49:52.411292] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39223-1\1_image_BV39223-1.png
+[2026-04-03 19:49:52.470986] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39318-1\1_image_BV39318-1.png
+[2026-04-03 19:49:52.520522] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39351-1\1_image_BV39351-1.png
+[2026-04-03 19:49:52.554933] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39529-1\1_image_BV39529-1.png
+[2026-04-03 19:49:52.652701] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\DRL1925-1\001_image_DRL1925-1.png
+[2026-04-03 19:49:52.704831] Resized: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\DRL19333-1\001_image_DRL19333-1.jpg to 977x510
+[2026-04-03 19:49:53.199388] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\L501-041857\1_image_L501-041857.png
+[2026-04-03 19:49:53.248203] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\L501-042014\1_image_L501-042014.png
+[2026-04-03 19:49:53.300389] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\L501-042021\1_image_L501-042021.png
+[2026-04-03 19:49:53.345633] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\L501-042038\1_image_L501-042038.png
+[2026-04-03 19:49:53.750566] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\TW-Bella-black\1_image_TW-Bella-black.png
+[2026-04-03 19:49:53.918074] Resized: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\TW-Style-black\1_image_TW-Style-black.jpg to 550x510
+[2026-04-03 19:49:54.043557] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\5202801\002_image_5202801.png
+[2026-04-03 19:49:54.069439] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\5204101\2_image_5204101.png
+[2026-04-03 19:49:54.218961] Resized: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BN-KK-4-vin-kr\2_image_BN-KK-4-vin-kr.jpg to 714x510
+[2026-04-03 19:49:54.247781] Resized: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BN-SB-2-st-red\002_image_BN-SB-2-st-red.jpg to 619x510
+[2026-04-03 19:49:54.677631] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\L501-041857\2_image_L501-041857.png
+[2026-04-03 19:49:54.712761] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\L501-042014\2_image_L501-042014.png
+[2026-04-03 19:49:54.754545] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\L501-042021\2_image_L501-042021.png
+[2026-04-03 19:49:54.788215] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\L501-042038\2_image_L501-042038.png
+[2026-04-03 19:49:54.908087] Resized: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\LC47991-92\2_image_LC47991-92.jpg to 1023x510
+[2026-04-03 19:49:54.954684] Resized: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\lim-22-115\2_image_lim-22-115.jpg to 1730x510
+[2026-04-03 19:49:55.144433] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\TW-Bella-black\2_image_TW-Bella-black.png
+[2026-04-03 19:49:55.229649] Resized: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\TW-Moment-mars\2_image_TW-Moment-mars.jpg to 739x510
+[2026-04-03 19:49:55.382334] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\5204101\3_image_5204101.png
+[2026-04-03 19:49:55.439917] Resized: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\5233301\3_image_5233301.jpg to 554x510
+[2026-04-03 19:49:55.553027] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39223-1\3_image_BV39223-1.png
+[2026-04-03 19:49:55.602013] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39318-1\3_image_BV39318-1.png
+[2026-04-03 19:49:55.713837] Resized: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\fz189606\003_image_fz189606.jpg to 510x1120
+[2026-04-03 19:49:56.065175] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\L501-041857\3_image_L501-041857.png
+[2026-04-03 19:49:56.212786] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\L501-042014\3_image_L501-042014.png
+[2026-04-03 19:49:56.285682] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\L501-042021\3_image_L501-042021.png
+[2026-04-03 19:49:56.412564] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\L501-042038\3_image_L501-042038.png
+[2026-04-03 19:49:56.512592] Resized: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\LC47210-1X\3_image_LC47210-1X.jpg to 1054x510
+[2026-04-03 19:49:56.750371] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\TW-Bella-black\3_image_TW-Bella-black.png
+[2026-04-03 19:49:56.951506] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\5193401\4_image_5193401.png
+[2026-04-03 19:49:56.982600] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\5202801\4_image_5202801.png
+[2026-04-03 19:49:57.013130] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\5204101\4_image_5204101.png
+[2026-04-03 19:49:57.044453] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\5205801\4_image_5205801.png
+[2026-04-03 19:49:57.248121] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39139-1\4_image_BV39139-1.png
+[2026-04-03 19:49:57.284935] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39223-1\4_image_BV39223-1.png
+[2026-04-03 19:49:57.362970] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39318-1\4_image_BV39318-1.png
+[2026-04-03 19:49:57.399286] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39318-232\4_image_BV39318-232.png
+[2026-04-03 19:49:57.449248] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39318-76A\4_image_BV39318-76A.png
+[2026-04-03 19:49:57.477176] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39351-1\4_image_BV39351-1.png
+[2026-04-03 19:49:57.536650] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39529-1\4_image_BV39529-1.png
+[2026-04-03 19:49:57.577717] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39529-145\4_image_BV39529-145.png
+[2026-04-03 19:49:57.642210] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\DRL1925-1\4_image_DRL1925-1.png
+[2026-04-03 19:49:57.917215] Resized: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\L28001-2\4_image_L28001-2.jpg to 1054x510
+[2026-04-03 19:49:58.081250] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\L501-041857\4_image_L501-041857.png
+[2026-04-03 19:49:58.164737] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\L501-042014\4_image_L501-042014.png
+[2026-04-03 19:49:58.278371] Resized: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\LC47695-1\4_image_LC47695-1.jpg to 1116x510
+[2026-04-03 19:49:58.329557] Resized: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\LC47991-92\4_image_LC47991-92.jpg to 1116x510
+[2026-04-03 19:49:58.429474] Resized: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\RA-1501-3md\4_image_RA-1501-3md.jpg to 510x1078
+[2026-04-03 19:49:58.587778] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\TW-Bella-black\4_image_TW-Bella-black.png
+[2026-04-03 19:49:58.647914] Resized: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\TW-CB-8-pink\4_image_TW-CB-8-pink.jpg to 562x510
+[2026-04-03 19:49:58.707839] Resized: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\vc001a-red\4_image_vc001a-red.jpg to 1273x510
+[2026-04-03 19:49:58.846630] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\5193401\5_image_5193401.png
+[2026-04-03 19:49:58.880162] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\5202801\5_image_5202801.png
+[2026-04-03 19:49:58.914126] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\5204101\5_image_5204101.png
+[2026-04-03 19:49:58.947541] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\5205701\5_image_5205701.png
+[2026-04-03 19:49:58.980964] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\5205801\5_image_5205801.png
+[2026-04-03 19:49:59.131826] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39223-1\5_image_BV39223-1.png
+[2026-04-03 19:49:59.173078] Resized: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39223-1-small\5_image_BV39223-1-small.jpg to 925x510
+[2026-04-03 19:49:59.203443] Resized: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39223-145\5_image_BV39223-145.jpg to 930x510
+[2026-04-03 19:49:59.240772] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39318-1\5_image_BV39318-1.png
+[2026-04-03 19:49:59.276417] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39318-232\5_image_BV39318-232.png
+[2026-04-03 19:49:59.345903] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39318-76A\5_image_BV39318-76A.png
+[2026-04-03 19:49:59.401402] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39351-1\5_image_BV39351-1.png
+[2026-04-03 19:49:59.481070] Resized: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\bx9020\5_image_bx9020.jpg to 1962x510
+[2026-04-03 19:49:59.551668] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\DRL1925-1\5_image_DRL1925-1.png
+[2026-04-03 19:50:00.001837] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\L501-041857\5_image_L501-041857.png
+[2026-04-03 19:50:00.347846] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\TW-Bella-black\5_image_TW-Bella-black.png
+[2026-04-03 19:50:00.447911] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\20906_1\006_image_20906_1 (1).png
+[2026-04-03 19:50:00.559644] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\5202801\6_image_5202801.png
+[2026-04-03 19:50:00.602905] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\5204101\6_image_5204101.png
+[2026-04-03 19:50:00.647855] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\5205701\6_image_5205701.png
+[2026-04-03 19:50:00.681385] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\5205801\6_image_5205801.png
+[2026-04-03 19:50:00.726179] Resized: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\5221401\6_image_5221401.jpg to 669x510
+[2026-04-03 19:50:00.868554] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39223-1\6_image_BV39223-1.png
+[2026-04-03 19:50:00.914496] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39223-145\6_image_BV39223-145.png
+[2026-04-03 19:50:00.978669] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39318-232\6_image_BV39318-232.png
+[2026-04-03 19:50:01.061500] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39351-1\6_image_BV39351-1.png
+[2026-04-03 19:50:01.113818] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39529-1\6_image_BV39529-1.png
+[2026-04-03 19:50:01.160998] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39529-145\6_image_BV39529-145.png
+[2026-04-03 19:50:01.281249] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\DRL1925-1\6_image_DRL1925-1.png
+[2026-04-03 19:50:01.408609] Resized: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\GBalc-2067-4lx\6_image_GBalc-2067-4lx.jpg to 510x1120
+[2026-04-03 19:50:01.679785] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\L501-042014\6_image_L501-042014.png
+[2026-04-03 19:50:01.846355] Resized: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\RB-2200RL-4lx\6_image_RB-2200RL-4lx.jpg to 510x1332
+[2026-04-03 19:50:01.956302] Resized: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\RE-30272-3md\6_image_RE-30272-3md.jpg to 510x1181
+[2026-04-03 19:50:02.146637] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\5202801\7_image_5202801.png
+[2026-04-03 19:50:02.178774] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\5204101\7_image_5204101.png
+[2026-04-03 19:50:02.399199] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39032-191\7_image_BV39032-191.png
+[2026-04-03 19:50:02.459713] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39223-1\7_image_BV39223-1.png
+[2026-04-03 19:50:02.512381] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39223-145\7_image_BV39223-145.png
+[2026-04-03 19:50:02.606411] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39318-1\7_image_BV39318-1.png
+[2026-04-03 19:50:02.667748] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39318-232\7_image_BV39318-232.png
+[2026-04-03 19:50:02.712122] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39318-76A\7_image_BV39318-76A.png
+[2026-04-03 19:50:02.762521] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39351-1\7_image_BV39351-1.png
+[2026-04-03 19:50:02.879527] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\DRL1925-1\7_image_DRL1925-1.png
+[2026-04-03 19:50:03.186869] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\L501-042014\7_image_L501-042014.png
+[2026-04-03 19:50:03.305707] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\L501-042021\7_image_L501-042021.png
+[2026-04-03 19:50:03.375888] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\L501-042038\7_image_L501-042038.png
+[2026-04-03 19:50:03.741290] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\5202801\8_image_5202801.png
+[2026-04-03 19:50:03.772932] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\5204101\8_image_5204101.png
+[2026-04-03 19:50:03.891719] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39139-1\008_image_BV39139-1.png
+[2026-04-03 19:50:03.963475] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\BV39223-145\008_image_BV39223-145.png
+[2026-04-03 19:50:04.025988] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\DRL1925-1\008_image_DRL1925-1.png
+[2026-04-03 19:50:04.242199] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\L501-042021\8_image_L501-042021.png
+[2026-04-03 19:50:04.492788] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\5193401\9_image_5193401.png
+[2026-04-03 19:50:04.532087] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\5204101\9_image_5204101.png
+[2026-04-03 19:50:04.584419] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\5205701\9_image_5205701.png
+[2026-04-03 19:50:04.607798] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\5205801\9_image_5205801.png
+[2026-04-03 19:50:04.672533] Resized: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\5233301\9_image_5233301.jpg to 672x510
+[2026-04-03 19:50:04.708355] Resized: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\5246401\9_image_5246401.jpg to 510x750
+[2026-04-03 19:50:05.059211] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\5202801\10_image_5202801.png
+[2026-04-03 19:50:05.092618] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\5205801\10_image_5205801.png
+[2026-04-03 19:50:05.403617] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\5202801\011_image_5202801.png
+[2026-04-03 19:50:05.442342] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\5205801\011_image_5205801.png
+[2026-04-03 19:50:06.040603] ======= DONE PROCESSING =======
