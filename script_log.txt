@@ -654,3 +654,6 @@
 [2026-04-03 19:50:05.403617] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\5202801\011_image_5202801.png
 [2026-04-03 19:50:05.442342] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані\5205801\011_image_5205801.png
 [2026-04-03 19:50:06.040603] ======= DONE PROCESSING =======
+[2026-04-03 20:00:38.457337] ======= START =======
+[2026-04-03 20:00:38.457337] Input folder: C:/Users/Asus/Desktop/1 редагування2026/338 фото/338 обрізані
+[2026-04-03 20:00:47.767771] ======= DONE PROCESSING =======
