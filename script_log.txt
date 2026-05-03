@@ -715,3 +715,6 @@
 [2026-04-29 19:32:43.620358] Input folder: C:/Users/Asus/Desktop/обрвзані фоо
 [2026-04-29 19:32:44.198639] Converted and deleted original PNG: C:/Users/Asus/Desktop/обрвзані фоо\150VFX85-BLACK\2_image_150VFX85-BLACK.jpg.png
 [2026-04-29 19:32:44.980125] ======= DONE PROCESSING =======
+[2026-05-03 18:11:19.991208] ======= START =======
+[2026-05-03 18:11:19.991208] Input folder: C:/Users/Asus/Desktop/1 редагування2026/349/фото 349/відзеркалені фото
+[2026-05-03 18:11:21.381932] ======= DONE PROCESSING =======
