@@ -721,3 +721,9 @@
 [2026-05-04 17:12:48.538245] ======= START =======
 [2026-05-04 17:12:48.538245] Input folder: C:/Users/Asus/Desktop/1 редагування2026/350/відзеркалені
 [2026-05-04 17:12:49.995450] ======= DONE PROCESSING =======
+[2026-05-07 11:30:08.292928] ======= START =======
+[2026-05-07 11:30:08.292928] Input folder: C:/Users/Asus/Desktop/2 hfp дублі фото_без_дублів
+[2026-05-07 11:30:56.035717] Converted and deleted original PNG: C:/Users/Asus/Desktop/2 hfp дублі фото_без_дублів\20064\12_image_20064.png
+[2026-05-07 11:31:00.883909] Converted and deleted original PNG: C:/Users/Asus/Desktop/2 hfp дублі фото_без_дублів\20064\14_image_20064.png
+[2026-05-07 11:31:02.646912] Converted and deleted original PNG: C:/Users/Asus/Desktop/2 hfp дублі фото_без_дублів\20064\15_image_20064.png
+[2026-05-07 11:31:07.190086] ======= DONE PROCESSING =======
