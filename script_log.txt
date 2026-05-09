@@ -727,3 +727,6 @@
 [2026-05-07 11:31:00.883909] Converted and deleted original PNG: C:/Users/Asus/Desktop/2 hfp дублі фото_без_дублів\20064\14_image_20064.png
 [2026-05-07 11:31:02.646912] Converted and deleted original PNG: C:/Users/Asus/Desktop/2 hfp дублі фото_без_дублів\20064\15_image_20064.png
 [2026-05-07 11:31:07.190086] ======= DONE PROCESSING =======
+[2026-05-09 06:42:11.589265] ======= START =======
+[2026-05-09 06:42:11.589265] Input folder: C:/Users/Asus/Desktop/фото для заливу de esse
+[2026-05-09 06:42:14.433877] ======= DONE PROCESSING =======
