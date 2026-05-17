@@ -733,3 +733,7 @@
 [2026-05-09 07:28:55.531867] ======= START =======
 [2026-05-09 07:28:55.531867] Input folder: C:/Users/Asus/Desktop/посортованы
 [2026-05-09 07:29:08.307055] ======= DONE PROCESSING =======
+[2026-05-17 16:43:37.366325] ======= START =======
+[2026-05-17 16:43:37.366325] Input folder: C:/Users/Asus/Desktop/обрізані
+[2026-05-17 16:43:38.085292] Converted and deleted original PNG: C:/Users/Asus/Desktop/обрізані\18sm-ua-085-1\001_image_18sm-ua-085-1.png
+[2026-05-17 16:43:55.153395] ======= DONE PROCESSING =======
