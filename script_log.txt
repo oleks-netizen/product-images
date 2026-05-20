@@ -737,3 +737,17 @@
 [2026-05-17 16:43:37.366325] Input folder: C:/Users/Asus/Desktop/обрізані
 [2026-05-17 16:43:38.085292] Converted and deleted original PNG: C:/Users/Asus/Desktop/обрізані\18sm-ua-085-1\001_image_18sm-ua-085-1.png
 [2026-05-17 16:43:55.153395] ======= DONE PROCESSING =======
+[2026-05-20 07:40:58.800878] ======= START =======
+[2026-05-20 07:40:58.800878] Input folder: C:/Users/Asus/Desktop/1 редагування2026/351/351 фото/обрізані
+[2026-05-20 07:40:59.254139] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/351/351 фото/обрізані\BN-OP-37-g\2_image_BN-OP-37-g.png
+[2026-05-20 07:40:59.285406] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/351/351 фото/обрізані\BN-OP-37-navy-blue\002_image_BN-OP-37-navy-blue.png
+[2026-05-20 07:40:59.519846] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/351/351 фото/обрізані\BN-OP-37-g\3_image_BN-OP-37-g.png
+[2026-05-20 07:40:59.566735] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/351/351 фото/обрізані\BN-OP-37-navy-blue\3_image_BN-OP-37-navy-blue.png
+[2026-05-20 07:40:59.801179] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/351/351 фото/обрізані\BN-OP-37-g\4_image_BN-OP-37-g.png
+[2026-05-20 07:40:59.848070] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/351/351 фото/обрізані\BN-OP-37-navy-blue\4_image_BN-OP-37-navy-blue.png
+[2026-05-20 07:41:00.066888] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/351/351 фото/обрізані\BN-OP-37-g\5_image_BN-OP-37-g.png
+[2026-05-20 07:41:00.113776] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/351/351 фото/обрізані\BN-OP-37-navy-blue\5_image_BN-OP-37-navy-blue.png
+[2026-05-20 07:41:00.254443] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/351/351 фото/обрізані\BN-OP-37-g\6_image_BN-OP-37-g.png
+[2026-05-20 07:41:00.316962] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/351/351 фото/обрізані\BN-OP-37-navy-blue\6_image_BN-OP-37-navy-blue.png
+[2026-05-20 07:41:00.426373] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/351/351 фото/обрізані\BN-OP-37-g\7_image_BN-OP-37-g.png
+[2026-05-20 07:41:00.864003] ======= DONE PROCESSING =======
