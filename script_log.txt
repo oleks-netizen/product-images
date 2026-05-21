@@ -751,3 +751,6 @@
 [2026-05-20 07:41:00.316962] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/351/351 фото/обрізані\BN-OP-37-navy-blue\6_image_BN-OP-37-navy-blue.png
 [2026-05-20 07:41:00.426373] Converted and deleted original PNG: C:/Users/Asus/Desktop/1 редагування2026/351/351 фото/обрізані\BN-OP-37-g\7_image_BN-OP-37-g.png
 [2026-05-20 07:41:00.864003] ======= DONE PROCESSING =======
+[2026-05-21 18:01:34.058580] ======= START =======
+[2026-05-21 18:01:34.058580] Input folder: C:/Users/Asus/Desktop/1 редагування2026/Сірі фото бланк/сірі фото для обробки
+[2026-05-21 18:01:35.590292] ======= DONE PROCESSING =======
