@@ -717,3 +717,7 @@
 [2026-07-04 02:36:15.597173] Deleted folder: D:\photo-host\product-images\product-images\ua-38mkr-itl-0061-1
 [2026-07-04 02:36:15.598173] Deleted folder: D:\photo-host\product-images\product-images\ua-38mkr-itl-0061-2
 [2026-07-04 02:36:15.599173] Deleted folder: D:\photo-host\product-images\product-images\ua-38mkr-itl-0061-3
+[2026-07-04 02:36:26.876526] GitHub successfully cleaned and pushed
+[2026-07-04 02:36:44.637415] ======= START =======
+[2026-07-04 02:36:44.638416] Input folder: C:/Users/Asus/Desktop/1 редагування2026/перевірка товарів в наявності на розширення фото/товари менше 500/лише ці фото завантажити на фокс/4
+[2026-07-04 02:37:33.167118] ======= DONE PROCESSING =======
