@@ -1,2 +1,1 @@
-[2026-07-03 22:24:54.828864] Deleted file: D:\photo-host\product-images\product-images\script_log.txt
-[2026-07-03 22:29:40.504535] Git error during cleanup: Command '['git', 'push']' returned non-zero exit status 1.
+[2026-07-03 22:39:24.651469] Deleted file: D:\photo-host\product-images\product-images\script_log.txt
