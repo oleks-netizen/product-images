@@ -1625,3 +1625,7 @@
 [2026-07-04 01:33:08.617617] Deleted folder: D:\photo-host\product-images\product-images\С1TY8547-1-black
 [2026-07-04 01:33:08.618616] Deleted folder: D:\photo-host\product-images\product-images\С1TY8547-2-black
 [2026-07-04 01:33:08.620617] Deleted folder: D:\photo-host\product-images\product-images\С1TY8547-black
+[2026-07-04 01:33:17.845598] GitHub successfully cleaned and pushed
+[2026-07-04 01:36:29.331964] ======= START =======
+[2026-07-04 01:36:29.331964] Input folder: C:/Users/Asus/Desktop/1 редагування2026/перевірка товарів в наявності на розширення фото/товари менше 500/лише ці фото завантажити на фокс/3
+[2026-07-04 01:36:50.121184] ======= DONE PROCESSING =======
