@@ -1,1 +1,5 @@
 [2026-07-03 22:39:24.651469] Deleted file: D:\photo-host\product-images\product-images\script_log.txt
+[2026-07-03 22:39:27.535511] GitHub successfully cleaned and pushed
+[2026-07-03 22:39:35.166698] ======= START =======
+[2026-07-03 22:39:35.166698] Input folder: C:/Users/Asus/Desktop/1 редагування2026/перевірка товарів в наявності на розширення фото/товари менше 500/лише ці фото завантажити на фокс/пробні
+[2026-07-03 22:39:35.562579] ======= DONE PROCESSING =======
