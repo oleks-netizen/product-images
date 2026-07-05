@@ -197,3 +197,7 @@
 [2026-07-05 18:34:20.819340] Deleted folder: D:\photo-host\product-images\product-images\VSL58 BLK_COB
 [2026-07-05 18:34:20.820341] Deleted folder: D:\photo-host\product-images\product-images\x-022wh
 [2026-07-05 18:34:20.822342] Deleted folder: D:\photo-host\product-images\product-images\YB043
+[2026-07-05 18:34:32.958431] GitHub successfully cleaned and pushed
+[2026-07-05 18:35:17.929860] ======= START =======
+[2026-07-05 18:35:17.930868] Input folder: C:/Users/Asus/Desktop/1 редагування2026/перевірка товарів в наявності на розширення фото/2 перевірка/завантажені менше 509
+[2026-07-05 18:35:55.247582] ======= DONE PROCESSING =======
