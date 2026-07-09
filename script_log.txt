@@ -197,3 +197,7 @@
 [2026-07-09 10:12:20.499456] Deleted folder: D:\photo-host\product-images\product-images\VSL58 BLK_COB
 [2026-07-09 10:12:20.500456] Deleted folder: D:\photo-host\product-images\product-images\x-022wh
 [2026-07-09 10:12:20.501455] Deleted folder: D:\photo-host\product-images\product-images\YB043
+[2026-07-09 10:12:37.118985] GitHub successfully cleaned and pushed
+[2026-07-09 10:12:56.288922] ======= START =======
+[2026-07-09 10:12:56.288922] Input folder: C:/Users/Asus/Desktop/1 редагування2026/365 сумки/фото/4 обрізана
+[2026-07-09 10:12:57.860426] ======= DONE PROCESSING =======
