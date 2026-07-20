@@ -1,1 +1,5 @@
 [2026-07-20 18:32:44.978162] Deleted file: D:\photo-host\product-images\product-images\script_log.txt
+[2026-07-20 18:32:51.836159] GitHub successfully cleaned and pushed
+[2026-07-20 18:33:29.958826] ======= START =======
+[2026-07-20 18:33:29.958826] Input folder: C:/Users/Asus/Desktop/фото для перезаливу
+[2026-07-20 18:33:34.257882] ======= DONE PROCESSING =======
