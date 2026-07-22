@@ -18,3 +18,7 @@
 [2026-07-22 12:26:16.070027] Deleted folder: D:\photo-host\product-images\product-images\WELL-65621
 [2026-07-22 12:26:16.071365] Deleted folder: D:\photo-host\product-images\product-images\WELL-70101
 [2026-07-22 12:26:16.072815] Deleted folder: D:\photo-host\product-images\product-images\WELL-70104
+[2026-07-22 12:26:19.541324] GitHub successfully cleaned and pushed
+[2026-07-22 12:26:25.864173] ======= START =======
+[2026-07-22 12:26:25.864173] Input folder: C:/Users/Asus/Desktop/1 редагування2026/нові товари ВЕЛЛ/2/фото/5 посорттовані
+[2026-07-22 12:26:26.159610] ======= DONE PROCESSING =======
