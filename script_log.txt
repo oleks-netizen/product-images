@@ -1,22 +1,20 @@
-[2026-07-22 09:02:20.667924] Deleted file: D:\photo-host\product-images\product-images\script_log.txt
-[2026-07-22 09:02:20.669923] Deleted folder: D:\photo-host\product-images\product-images\TW-Bella-black
-[2026-07-22 09:02:20.674923] Deleted folder: D:\photo-host\product-images\product-images\TW-Bella-mokko
-[2026-07-22 09:02:20.677925] Deleted folder: D:\photo-host\product-images\product-images\TW-Bella-olive
-[2026-07-22 09:02:20.679923] Deleted folder: D:\photo-host\product-images\product-images\TW-Bella-red
-[2026-07-22 09:02:20.681924] Deleted folder: D:\photo-host\product-images\product-images\TW-Cilindr-blackberry-flo
-[2026-07-22 09:02:20.684054] Deleted folder: D:\photo-host\product-images\product-images\TW-Cilindr-dark-beige-flo
-[2026-07-22 09:02:20.686250] Deleted folder: D:\photo-host\product-images\product-images\TW-Cilindr-pudra-flo
-[2026-07-22 09:02:20.688439] Deleted folder: D:\photo-host\product-images\product-images\TW-Cilindr-red-flo
-[2026-07-22 09:02:20.689439] Deleted folder: D:\photo-host\product-images\product-images\TW-Explorer-S-mars
-[2026-07-22 09:02:20.691041] Deleted folder: D:\photo-host\product-images\product-images\TW-Faith-mars
-[2026-07-22 09:02:20.694000] Deleted folder: D:\photo-host\product-images\product-images\TW-Holly-mars
-[2026-07-22 09:02:20.695410] Deleted folder: D:\photo-host\product-images\product-images\TW-Molly-p-g
-[2026-07-22 09:02:20.696656] Deleted folder: D:\photo-host\product-images\product-images\TW-Moment-mars
-[2026-07-22 09:02:20.698653] Deleted folder: D:\photo-host\product-images\product-images\TW-Ruby-big-grey
-[2026-07-22 09:02:20.701286] Deleted folder: D:\photo-host\product-images\product-images\TW-Ruby-big-kon
-[2026-07-22 09:02:20.703975] Deleted folder: D:\photo-host\product-images\product-images\TW-Ruby-big-pink
-[2026-07-22 09:02:20.705056] Deleted folder: D:\photo-host\product-images\product-images\TW-Vacation-vin
-[2026-07-22 09:02:25.379566] GitHub successfully cleaned and pushed
-[2026-07-22 09:03:04.421840] ======= START =======
-[2026-07-22 09:03:04.422838] Input folder: C:/Users/Asus/Desktop/1 редагування2026/нові товари ВЕЛЛ/фото/5 посортовані
-[2026-07-22 09:03:04.751408] ======= DONE PROCESSING =======
+[2026-07-22 12:26:16.031595] Deleted file: D:\photo-host\product-images\product-images\script_log.txt
+[2026-07-22 12:26:16.035595] Deleted folder: D:\photo-host\product-images\product-images\WELL-11108
+[2026-07-22 12:26:16.039594] Deleted folder: D:\photo-host\product-images\product-images\WELL-11901
+[2026-07-22 12:26:16.042513] Deleted folder: D:\photo-host\product-images\product-images\WELL-13002
+[2026-07-22 12:26:16.046577] Deleted folder: D:\photo-host\product-images\product-images\WELL-13009
+[2026-07-22 12:26:16.048394] Deleted folder: D:\photo-host\product-images\product-images\WELL-44455
+[2026-07-22 12:26:16.049572] Deleted folder: D:\photo-host\product-images\product-images\WELL-45107
+[2026-07-22 12:26:16.051892] Deleted folder: D:\photo-host\product-images\product-images\WELL-46401
+[2026-07-22 12:26:16.054809] Deleted folder: D:\photo-host\product-images\product-images\WELL-47309
+[2026-07-22 12:26:16.056674] Deleted folder: D:\photo-host\product-images\product-images\WELL-56311
+[2026-07-22 12:26:16.058082] Deleted folder: D:\photo-host\product-images\product-images\WELL-56510
+[2026-07-22 12:26:16.059081] Deleted folder: D:\photo-host\product-images\product-images\WELL-56511
+[2026-07-22 12:26:16.061707] Deleted folder: D:\photo-host\product-images\product-images\WELL-60127
+[2026-07-22 12:26:16.062771] Deleted folder: D:\photo-host\product-images\product-images\WELL-60504
+[2026-07-22 12:26:16.064668] Deleted folder: D:\photo-host\product-images\product-images\WELL-61013
+[2026-07-22 12:26:16.066504] Deleted folder: D:\photo-host\product-images\product-images\WELL-62404
+[2026-07-22 12:26:16.068529] Deleted folder: D:\photo-host\product-images\product-images\WELL-63204
+[2026-07-22 12:26:16.070027] Deleted folder: D:\photo-host\product-images\product-images\WELL-65621
+[2026-07-22 12:26:16.071365] Deleted folder: D:\photo-host\product-images\product-images\WELL-70101
+[2026-07-22 12:26:16.072815] Deleted folder: D:\photo-host\product-images\product-images\WELL-70104
