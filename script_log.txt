@@ -16,3 +16,7 @@
 [2026-07-22 09:02:20.701286] Deleted folder: D:\photo-host\product-images\product-images\TW-Ruby-big-kon
 [2026-07-22 09:02:20.703975] Deleted folder: D:\photo-host\product-images\product-images\TW-Ruby-big-pink
 [2026-07-22 09:02:20.705056] Deleted folder: D:\photo-host\product-images\product-images\TW-Vacation-vin
+[2026-07-22 09:02:25.379566] GitHub successfully cleaned and pushed
+[2026-07-22 09:03:04.421840] ======= START =======
+[2026-07-22 09:03:04.422838] Input folder: C:/Users/Asus/Desktop/1 редагування2026/нові товари ВЕЛЛ/фото/5 посортовані
+[2026-07-22 09:03:04.751408] ======= DONE PROCESSING =======
