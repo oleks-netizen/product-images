@@ -1,5 +1,18 @@
-[2026-07-20 18:32:44.978162] Deleted file: D:\photo-host\product-images\product-images\script_log.txt
-[2026-07-20 18:32:51.836159] GitHub successfully cleaned and pushed
-[2026-07-20 18:33:29.958826] ======= START =======
-[2026-07-20 18:33:29.958826] Input folder: C:/Users/Asus/Desktop/фото для перезаливу
-[2026-07-20 18:33:34.257882] ======= DONE PROCESSING =======
+[2026-07-22 09:02:20.667924] Deleted file: D:\photo-host\product-images\product-images\script_log.txt
+[2026-07-22 09:02:20.669923] Deleted folder: D:\photo-host\product-images\product-images\TW-Bella-black
+[2026-07-22 09:02:20.674923] Deleted folder: D:\photo-host\product-images\product-images\TW-Bella-mokko
+[2026-07-22 09:02:20.677925] Deleted folder: D:\photo-host\product-images\product-images\TW-Bella-olive
+[2026-07-22 09:02:20.679923] Deleted folder: D:\photo-host\product-images\product-images\TW-Bella-red
+[2026-07-22 09:02:20.681924] Deleted folder: D:\photo-host\product-images\product-images\TW-Cilindr-blackberry-flo
+[2026-07-22 09:02:20.684054] Deleted folder: D:\photo-host\product-images\product-images\TW-Cilindr-dark-beige-flo
+[2026-07-22 09:02:20.686250] Deleted folder: D:\photo-host\product-images\product-images\TW-Cilindr-pudra-flo
+[2026-07-22 09:02:20.688439] Deleted folder: D:\photo-host\product-images\product-images\TW-Cilindr-red-flo
+[2026-07-22 09:02:20.689439] Deleted folder: D:\photo-host\product-images\product-images\TW-Explorer-S-mars
+[2026-07-22 09:02:20.691041] Deleted folder: D:\photo-host\product-images\product-images\TW-Faith-mars
+[2026-07-22 09:02:20.694000] Deleted folder: D:\photo-host\product-images\product-images\TW-Holly-mars
+[2026-07-22 09:02:20.695410] Deleted folder: D:\photo-host\product-images\product-images\TW-Molly-p-g
+[2026-07-22 09:02:20.696656] Deleted folder: D:\photo-host\product-images\product-images\TW-Moment-mars
+[2026-07-22 09:02:20.698653] Deleted folder: D:\photo-host\product-images\product-images\TW-Ruby-big-grey
+[2026-07-22 09:02:20.701286] Deleted folder: D:\photo-host\product-images\product-images\TW-Ruby-big-kon
+[2026-07-22 09:02:20.703975] Deleted folder: D:\photo-host\product-images\product-images\TW-Ruby-big-pink
+[2026-07-22 09:02:20.705056] Deleted folder: D:\photo-host\product-images\product-images\TW-Vacation-vin
