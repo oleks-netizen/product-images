@@ -13,3 +13,7 @@
 [2026-07-23 08:36:42.694322] Deleted folder: D:\photo-host\product-images\product-images\WELL-69505
 [2026-07-23 08:36:42.695904] Deleted folder: D:\photo-host\product-images\product-images\WELL-69604
 [2026-07-23 08:36:42.697081] Deleted folder: D:\photo-host\product-images\product-images\WELL-90201
+[2026-07-23 08:36:46.813814] GitHub successfully cleaned and pushed
+[2026-07-23 08:36:57.817581] ======= START =======
+[2026-07-23 08:36:57.818579] Input folder: C:/Users/Asus/Desktop/1 редагування2026/нові бег24/візитниці
+[2026-07-23 08:37:00.045273] ======= DONE PROCESSING =======
