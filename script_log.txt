@@ -1,3 +1,7 @@
 [2026-07-26 19:30:00.193815] Deleted file: D:\photo-host\product-images\product-images\script_log.txt
 [2026-07-26 19:30:00.195090] Deleted folder: D:\photo-host\product-images\product-images\TB1063A
 [2026-07-26 19:30:00.198089] Deleted folder: D:\photo-host\product-images\product-images\ZА-3990-3md
+[2026-07-26 19:30:05.057042] GitHub successfully cleaned and pushed
+[2026-07-26 19:30:13.532798] ======= START =======
+[2026-07-26 19:30:13.533796] Input folder: C:/Users/Asus/Desktop/1 редагування2026/2 товари для Каста/4/Що переробити/2 Чорловічі/фото/3 фото артикулів для залив
+[2026-07-26 19:30:22.076733] ======= DONE PROCESSING =======
