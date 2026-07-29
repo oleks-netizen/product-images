@@ -63,3 +63,7 @@
 [2026-07-29 19:10:40.463725] Deleted folder: D:\photo-host\product-images\product-images\TB555B
 [2026-07-29 19:10:40.465724] Deleted folder: D:\photo-host\product-images\product-images\TW-Explorer-S-brown
 [2026-07-29 19:10:40.468725] Deleted folder: D:\photo-host\product-images\product-images\V1N-6813 Синяя
+[2026-07-29 19:10:57.807367] GitHub successfully cleaned and pushed
+[2026-07-29 19:11:45.264055] ======= START =======
+[2026-07-29 19:11:45.265057] Input folder: C:/Users/Asus/Desktop/1 редагування2026/2 товари для Каста/2 Рюкзак/фото/4 сорування
+[2026-07-29 19:12:09.890915] ======= DONE PROCESSING =======
