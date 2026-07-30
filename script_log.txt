@@ -1,69 +1,77 @@
-[2026-07-29 19:10:40.253507] Deleted file: D:\photo-host\product-images\product-images\script_log.txt
-[2026-07-29 19:10:40.256508] Deleted folder: D:\photo-host\product-images\product-images\ssch-kit-0085
-[2026-07-29 19:10:40.259508] Deleted folder: D:\photo-host\product-images\product-images\ssch-kit-0086
-[2026-07-29 19:10:40.264939] Deleted folder: D:\photo-host\product-images\product-images\ssch-kit-0087
-[2026-07-29 19:10:40.268524] Deleted folder: D:\photo-host\product-images\product-images\ssch-kit-0088
-[2026-07-29 19:10:40.271524] Deleted folder: D:\photo-host\product-images\product-images\ssch-kit-0089
-[2026-07-29 19:10:40.274524] Deleted folder: D:\photo-host\product-images\product-images\ssch-kit-0090
-[2026-07-29 19:10:40.277693] Deleted folder: D:\photo-host\product-images\product-images\ssch-kit-0091
-[2026-07-29 19:10:40.281695] Deleted folder: D:\photo-host\product-images\product-images\ssch-kit-0092
-[2026-07-29 19:10:40.284693] Deleted folder: D:\photo-host\product-images\product-images\ssch-kit-0093
-[2026-07-29 19:10:40.287694] Deleted folder: D:\photo-host\product-images\product-images\ssch-kit-0094
-[2026-07-29 19:10:40.291694] Deleted folder: D:\photo-host\product-images\product-images\ssch-kit-0095
-[2026-07-29 19:10:40.297303] Deleted folder: D:\photo-host\product-images\product-images\ssch-kit-0096
-[2026-07-29 19:10:40.302302] Deleted folder: D:\photo-host\product-images\product-images\ssch-kit-0097
-[2026-07-29 19:10:40.304302] Deleted folder: D:\photo-host\product-images\product-images\ssch-kit-0098
-[2026-07-29 19:10:40.307303] Deleted folder: D:\photo-host\product-images\product-images\ssch-kit-0099
-[2026-07-29 19:10:40.310302] Deleted folder: D:\photo-host\product-images\product-images\ssch-kit-0100
-[2026-07-29 19:10:40.316305] Deleted folder: D:\photo-host\product-images\product-images\ssch-kit-0101
-[2026-07-29 19:10:40.321303] Deleted folder: D:\photo-host\product-images\product-images\ssch-kit-0102
-[2026-07-29 19:10:40.325807] Deleted folder: D:\photo-host\product-images\product-images\ssch-kit-0103
-[2026-07-29 19:10:40.329118] Deleted folder: D:\photo-host\product-images\product-images\ssch-kit-0104
-[2026-07-29 19:10:40.332118] Deleted folder: D:\photo-host\product-images\product-images\ssch-kit-0105
-[2026-07-29 19:10:40.335047] Deleted folder: D:\photo-host\product-images\product-images\ssch-kit-0106
-[2026-07-29 19:10:40.338047] Deleted folder: D:\photo-host\product-images\product-images\ssch-kit-0107
-[2026-07-29 19:10:40.341935] Deleted folder: D:\photo-host\product-images\product-images\ssch-kit-0108
-[2026-07-29 19:10:40.345474] Deleted folder: D:\photo-host\product-images\product-images\ssch-kit-0109
-[2026-07-29 19:10:40.348474] Deleted folder: D:\photo-host\product-images\product-images\ssch-kit-0110
-[2026-07-29 19:10:40.351474] Deleted folder: D:\photo-host\product-images\product-images\ssch-kit-0111
-[2026-07-29 19:10:40.355255] Deleted folder: D:\photo-host\product-images\product-images\ssch-kit-0112
-[2026-07-29 19:10:40.358363] Deleted folder: D:\photo-host\product-images\product-images\ssch-kit-0113
-[2026-07-29 19:10:40.361363] Deleted folder: D:\photo-host\product-images\product-images\ssch-kit-0114
-[2026-07-29 19:10:40.364363] Deleted folder: D:\photo-host\product-images\product-images\ssch-kit-0115
-[2026-07-29 19:10:40.367924] Deleted folder: D:\photo-host\product-images\product-images\ssch-kit-0117
-[2026-07-29 19:10:40.370924] Deleted folder: D:\photo-host\product-images\product-images\ssch-kit-0118
-[2026-07-29 19:10:40.373924] Deleted folder: D:\photo-host\product-images\product-images\ssch-kit-0120
-[2026-07-29 19:10:40.375924] Deleted folder: D:\photo-host\product-images\product-images\ssch-kit-0121
-[2026-07-29 19:10:40.379929] Deleted folder: D:\photo-host\product-images\product-images\ssch-kit-0122
-[2026-07-29 19:10:40.383375] Deleted folder: D:\photo-host\product-images\product-images\ssch-kit-0123
-[2026-07-29 19:10:40.386748] Deleted folder: D:\photo-host\product-images\product-images\ssch-kit-0124
-[2026-07-29 19:10:40.389748] Deleted folder: D:\photo-host\product-images\product-images\ssch-kit-0126
-[2026-07-29 19:10:40.393749] Deleted folder: D:\photo-host\product-images\product-images\ssch-kit-0127
-[2026-07-29 19:10:40.396018] Deleted folder: D:\photo-host\product-images\product-images\ssch-kit-0128
-[2026-07-29 19:10:40.399016] Deleted folder: D:\photo-host\product-images\product-images\ssch-kit-0129
-[2026-07-29 19:10:40.402016] Deleted folder: D:\photo-host\product-images\product-images\ssch-kit-0130
-[2026-07-29 19:10:40.405016] Deleted folder: D:\photo-host\product-images\product-images\ssch-kit-0131
-[2026-07-29 19:10:40.407779] Deleted folder: D:\photo-host\product-images\product-images\ssch-kit-0133
-[2026-07-29 19:10:40.410779] Deleted folder: D:\photo-host\product-images\product-images\ssch-kit-0134
-[2026-07-29 19:10:40.414780] Deleted folder: D:\photo-host\product-images\product-images\ssch-kit-0136
-[2026-07-29 19:10:40.418753] Deleted folder: D:\photo-host\product-images\product-images\ssch-kit-0137
-[2026-07-29 19:10:40.421667] Deleted folder: D:\photo-host\product-images\product-images\ssch-kit-0138
-[2026-07-29 19:10:40.424667] Deleted folder: D:\photo-host\product-images\product-images\ssch-kit-0139
-[2026-07-29 19:10:40.428322] Deleted folder: D:\photo-host\product-images\product-images\ssch-kit-0140
-[2026-07-29 19:10:40.431322] Deleted folder: D:\photo-host\product-images\product-images\ssch-kit-0141
-[2026-07-29 19:10:40.434425] Deleted folder: D:\photo-host\product-images\product-images\ssch-kit-0142
-[2026-07-29 19:10:40.437425] Deleted folder: D:\photo-host\product-images\product-images\ssch-kit-0143
-[2026-07-29 19:10:40.440425] Deleted folder: D:\photo-host\product-images\product-images\ssch-kit-0144
-[2026-07-29 19:10:40.444005] Deleted folder: D:\photo-host\product-images\product-images\ssch-kit-0145
-[2026-07-29 19:10:40.447773] Deleted folder: D:\photo-host\product-images\product-images\ssch-kit-0146
-[2026-07-29 19:10:40.449778] Deleted folder: D:\photo-host\product-images\product-images\T0158A
-[2026-07-29 19:10:40.452778] Deleted folder: D:\photo-host\product-images\product-images\TB019A
-[2026-07-29 19:10:40.456989] Deleted folder: D:\photo-host\product-images\product-images\TB019B
-[2026-07-29 19:10:40.460724] Deleted folder: D:\photo-host\product-images\product-images\TB019C
-[2026-07-29 19:10:40.463725] Deleted folder: D:\photo-host\product-images\product-images\TB555B
-[2026-07-29 19:10:40.465724] Deleted folder: D:\photo-host\product-images\product-images\TW-Explorer-S-brown
-[2026-07-29 19:10:40.468725] Deleted folder: D:\photo-host\product-images\product-images\V1N-6813 Синяя
-[2026-07-29 19:10:57.807367] GitHub successfully cleaned and pushed
-[2026-07-29 19:11:45.264055] ======= START =======
-[2026-07-29 19:11:45.265057] Input folder: C:/Users/Asus/Desktop/1 редагування2026/2 товари для Каста/2 Рюкзак/фото/4 сорування
-[2026-07-29 19:12:09.890915] ======= DONE PROCESSING =======
+[2026-07-30 08:43:38.189982] Deleted file: D:\photo-host\product-images\product-images\script_log.txt
+[2026-07-30 08:43:38.193982] Deleted folder: D:\photo-host\product-images\product-images\T-B3655Black
+[2026-07-30 08:43:38.195982] Deleted folder: D:\photo-host\product-images\product-images\T-B3662ABlack
+[2026-07-30 08:43:38.197982] Deleted folder: D:\photo-host\product-images\product-images\T-B3936Grey
+[2026-07-30 08:43:38.199983] Deleted folder: D:\photo-host\product-images\product-images\T-B9017Black
+[2026-07-30 08:43:38.201982] Deleted folder: D:\photo-host\product-images\product-images\T-B9017Blue
+[2026-07-30 08:43:38.203983] Deleted folder: D:\photo-host\product-images\product-images\T-B9029Black
+[2026-07-30 08:43:38.206982] Deleted folder: D:\photo-host\product-images\product-images\T-B9030A
+[2026-07-30 08:43:38.207982] Deleted folder: D:\photo-host\product-images\product-images\T-B9037
+[2026-07-30 08:43:38.210983] Deleted folder: D:\photo-host\product-images\product-images\T-B9037Blue
+[2026-07-30 08:43:38.212983] Deleted folder: D:\photo-host\product-images\product-images\T-B9037P
+[2026-07-30 08:43:38.214983] Deleted folder: D:\photo-host\product-images\product-images\T-B9235Black
+[2026-07-30 08:43:38.218423] Deleted folder: D:\photo-host\product-images\product-images\T-B9280Blue
+[2026-07-30 08:43:38.219782] Deleted folder: D:\photo-host\product-images\product-images\T-S8511Black
+[2026-07-30 08:43:38.221657] Deleted folder: D:\photo-host\product-images\product-images\TA-1241-4lx
+[2026-07-30 08:43:38.222656] Deleted folder: D:\photo-host\product-images\product-images\TC80 BLK
+[2026-07-30 08:43:38.224081] Deleted folder: D:\photo-host\product-images\product-images\TC80 TAN
+[2026-07-30 08:43:38.225785] Deleted folder: D:\photo-host\product-images\product-images\TC86 TAN_MLN
+[2026-07-30 08:43:38.227783] Deleted folder: D:\photo-host\product-images\product-images\TC90 TAN
+[2026-07-30 08:43:38.229565] Deleted folder: D:\photo-host\product-images\product-images\TC92 BLK
+[2026-07-30 08:43:38.232124] Deleted folder: D:\photo-host\product-images\product-images\TC92 H_TAN
+[2026-07-30 08:43:38.234747] Deleted folder: D:\photo-host\product-images\product-images\TC93 M_BLK
+[2026-07-30 08:43:38.237721] Deleted folder: D:\photo-host\product-images\product-images\TC93 OIL TAN_M
+[2026-07-30 08:43:38.238721] Deleted folder: D:\photo-host\product-images\product-images\tid30723_br
+[2026-07-30 08:43:38.240802] Deleted folder: D:\photo-host\product-images\product-images\tid30726
+[2026-07-30 08:43:38.242043] Deleted folder: D:\photo-host\product-images\product-images\TW-Groove-M-brown-crz
+[2026-07-30 08:43:38.243043] Deleted folder: D:\photo-host\product-images\product-images\TW-Groove-M-white
+[2026-07-30 08:43:38.247042] Deleted folder: D:\photo-host\product-images\product-images\UGR-90798
+[2026-07-30 08:43:38.248826] Deleted folder: D:\photo-host\product-images\product-images\WELL-44201
+[2026-07-30 08:43:38.250466] Deleted folder: D:\photo-host\product-images\product-images\WELL-44205
+[2026-07-30 08:43:38.252321] Deleted folder: D:\photo-host\product-images\product-images\WELL-44206
+[2026-07-30 08:43:38.253320] Deleted folder: D:\photo-host\product-images\product-images\WELL-44208
+[2026-07-30 08:43:38.254320] Deleted folder: D:\photo-host\product-images\product-images\WELL-44209
+[2026-07-30 08:43:38.255631] Deleted folder: D:\photo-host\product-images\product-images\WELL-44210
+[2026-07-30 08:43:38.256790] Deleted folder: D:\photo-host\product-images\product-images\WELL-44213
+[2026-07-30 08:43:38.257789] Deleted folder: D:\photo-host\product-images\product-images\WELL-44312
+[2026-07-30 08:43:38.258789] Deleted folder: D:\photo-host\product-images\product-images\WELL-44415
+[2026-07-30 08:43:38.260204] Deleted folder: D:\photo-host\product-images\product-images\WELL-44419
+[2026-07-30 08:43:38.261203] Deleted folder: D:\photo-host\product-images\product-images\WELL-44425
+[2026-07-30 08:43:38.262937] Deleted folder: D:\photo-host\product-images\product-images\WELL-44429
+[2026-07-30 08:43:38.264218] Deleted folder: D:\photo-host\product-images\product-images\WELL-44444
+[2026-07-30 08:43:38.265609] Deleted folder: D:\photo-host\product-images\product-images\WELL-44601
+[2026-07-30 08:43:38.267254] Deleted folder: D:\photo-host\product-images\product-images\WELL-44603
+[2026-07-30 08:43:38.268658] Deleted folder: D:\photo-host\product-images\product-images\WELL-44606
+[2026-07-30 08:43:38.269902] Deleted folder: D:\photo-host\product-images\product-images\WELL-44608
+[2026-07-30 08:43:38.271572] Deleted folder: D:\photo-host\product-images\product-images\WELL-45352
+[2026-07-30 08:43:38.273155] Deleted folder: D:\photo-host\product-images\product-images\WELL-45505
+[2026-07-30 08:43:38.274154] Deleted folder: D:\photo-host\product-images\product-images\WELL-45508
+[2026-07-30 08:43:38.276155] Deleted folder: D:\photo-host\product-images\product-images\WELL-45510
+[2026-07-30 08:43:38.277439] Deleted folder: D:\photo-host\product-images\product-images\WELL-45601
+[2026-07-30 08:43:38.279311] Deleted folder: D:\photo-host\product-images\product-images\WELL-45602
+[2026-07-30 08:43:38.280721] Deleted folder: D:\photo-host\product-images\product-images\WELL-45603
+[2026-07-30 08:43:38.281720] Deleted folder: D:\photo-host\product-images\product-images\WELL-46109
+[2026-07-30 08:43:38.283227] Deleted folder: D:\photo-host\product-images\product-images\WELL-46110
+[2026-07-30 08:43:38.284226] Deleted folder: D:\photo-host\product-images\product-images\WELL-46111
+[2026-07-30 08:43:38.286188] Deleted folder: D:\photo-host\product-images\product-images\WELL-46113
+[2026-07-30 08:43:38.287187] Deleted folder: D:\photo-host\product-images\product-images\WELL-46407
+[2026-07-30 08:43:38.288490] Deleted folder: D:\photo-host\product-images\product-images\WELL-46427
+[2026-07-30 08:43:38.289489] Deleted folder: D:\photo-host\product-images\product-images\WELL-46500
+[2026-07-30 08:43:38.291902] Deleted folder: D:\photo-host\product-images\product-images\WELL-46501
+[2026-07-30 08:43:38.293555] Deleted folder: D:\photo-host\product-images\product-images\WELL-46507
+[2026-07-30 08:43:38.294876] Deleted folder: D:\photo-host\product-images\product-images\WELL-46707
+[2026-07-30 08:43:38.296875] Deleted folder: D:\photo-host\product-images\product-images\WELL-46708
+[2026-07-30 08:43:38.298336] Deleted folder: D:\photo-host\product-images\product-images\WELL-46711
+[2026-07-30 08:43:38.299335] Deleted folder: D:\photo-host\product-images\product-images\WELL-46900
+[2026-07-30 08:43:38.300896] Deleted folder: D:\photo-host\product-images\product-images\WELL-46904
+[2026-07-30 08:43:38.301895] Deleted folder: D:\photo-host\product-images\product-images\WELL-46908
+[2026-07-30 08:43:38.303684] Deleted folder: D:\photo-host\product-images\product-images\WELL-46909
+[2026-07-30 08:43:38.304683] Deleted folder: D:\photo-host\product-images\product-images\WELL-47208
+[2026-07-30 08:43:38.306599] Deleted folder: D:\photo-host\product-images\product-images\WELL-47400
+[2026-07-30 08:43:38.307597] Deleted folder: D:\photo-host\product-images\product-images\WELL-47401
+[2026-07-30 08:43:38.309124] Deleted folder: D:\photo-host\product-images\product-images\WELL-47404
+[2026-07-30 08:43:38.310123] Deleted folder: D:\photo-host\product-images\product-images\WELL-47409
+[2026-07-30 08:43:38.312296] Deleted folder: D:\photo-host\product-images\product-images\WELL-T4001
+[2026-07-30 08:43:38.313295] Deleted folder: D:\photo-host\product-images\product-images\WELL-T4002
+[2026-07-30 08:43:38.315295] Deleted folder: D:\photo-host\product-images\product-images\WELL-T4103
+[2026-07-30 08:43:38.316295] Deleted folder: D:\photo-host\product-images\product-images\X37 WOODROSE
