@@ -75,3 +75,7 @@
 [2026-07-30 08:43:38.313295] Deleted folder: D:\photo-host\product-images\product-images\WELL-T4002
 [2026-07-30 08:43:38.315295] Deleted folder: D:\photo-host\product-images\product-images\WELL-T4103
 [2026-07-30 08:43:38.316295] Deleted folder: D:\photo-host\product-images\product-images\X37 WOODROSE
+[2026-07-30 08:43:44.810767] GitHub successfully cleaned and pushed
+[2026-07-30 08:43:58.000402] ======= START =======
+[2026-07-30 08:43:58.000402] Input folder: C:/Users/Asus/Desktop/1 редагування2026/нові бег24/фото/2 обрізка
+[2026-07-30 08:44:15.554459] ======= DONE PROCESSING =======
