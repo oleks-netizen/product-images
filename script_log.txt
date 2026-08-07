@@ -1,5 +1,6 @@
-[2026-08-01 12:13:27.224736] Deleted file: D:\photo-host\product-images\product-images\script_log.txt
-[2026-08-01 12:13:45.349460] GitHub successfully cleaned and pushed
-[2026-08-01 12:13:56.198842] ======= START =======
-[2026-08-01 12:13:56.198842] Input folder: C:/Users/Asus/Desktop/1 редагування2026/378/4 посортовані
-[2026-08-01 12:13:57.393547] ======= DONE PROCESSING =======
+[2026-08-07 10:26:44.787142] Deleted file: D:\photo-host\product-images\product-images\script_log.txt
+[2026-08-07 10:26:44.789140] Deleted folder: D:\photo-host\product-images\product-images\WELL-11992
+[2026-08-07 10:26:44.790141] Deleted folder: D:\photo-host\product-images\product-images\WELL-72319
+[2026-08-07 10:26:44.793246] Deleted folder: D:\photo-host\product-images\product-images\WELL-72324
+[2026-08-07 10:26:44.795244] Deleted folder: D:\photo-host\product-images\product-images\WELL-72326
+[2026-08-07 10:26:44.796953] Deleted folder: D:\photo-host\product-images\product-images\WELL-K76519
