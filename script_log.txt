@@ -4,3 +4,7 @@
 [2026-08-07 10:26:44.793246] Deleted folder: D:\photo-host\product-images\product-images\WELL-72324
 [2026-08-07 10:26:44.795244] Deleted folder: D:\photo-host\product-images\product-images\WELL-72326
 [2026-08-07 10:26:44.796953] Deleted folder: D:\photo-host\product-images\product-images\WELL-K76519
+[2026-08-07 10:26:49.922050] GitHub successfully cleaned and pushed
+[2026-08-07 10:26:56.084020] ======= START =======
+[2026-08-07 10:26:56.084937] Input folder: C:/Users/Asus/Desktop/1 редагування2026/379 ремені/фото/6 посортовані
+[2026-08-07 10:26:56.516178] ======= DONE PROCESSING =======
