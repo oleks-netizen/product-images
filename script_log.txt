@@ -1,10 +1,17 @@
-[2026-08-07 10:26:44.787142] Deleted file: D:\photo-host\product-images\product-images\script_log.txt
-[2026-08-07 10:26:44.789140] Deleted folder: D:\photo-host\product-images\product-images\WELL-11992
-[2026-08-07 10:26:44.790141] Deleted folder: D:\photo-host\product-images\product-images\WELL-72319
-[2026-08-07 10:26:44.793246] Deleted folder: D:\photo-host\product-images\product-images\WELL-72324
-[2026-08-07 10:26:44.795244] Deleted folder: D:\photo-host\product-images\product-images\WELL-72326
-[2026-08-07 10:26:44.796953] Deleted folder: D:\photo-host\product-images\product-images\WELL-K76519
-[2026-08-07 10:26:49.922050] GitHub successfully cleaned and pushed
-[2026-08-07 10:26:56.084020] ======= START =======
-[2026-08-07 10:26:56.084937] Input folder: C:/Users/Asus/Desktop/1 редагування2026/379 ремені/фото/6 посортовані
-[2026-08-07 10:26:56.516178] ======= DONE PROCESSING =======
+[2026-08-12 15:48:31.867437] Deleted file: D:\photo-host\product-images\product-images\script_log.txt
+[2026-08-12 15:48:31.871458] Deleted folder: D:\photo-host\product-images\product-images\tur-1
+[2026-08-12 15:48:31.873002] Deleted folder: D:\photo-host\product-images\product-images\tur-2
+[2026-08-12 15:48:31.874546] Deleted folder: D:\photo-host\product-images\product-images\tur-3
+[2026-08-12 15:48:31.876288] Deleted folder: D:\photo-host\product-images\product-images\ua-avtmt-35k-10
+[2026-08-12 15:48:31.879189] Deleted folder: D:\photo-host\product-images\product-images\ua-avtmt-35k-11
+[2026-08-12 15:48:31.881273] Deleted folder: D:\photo-host\product-images\product-images\ua-avtmt-35k-12
+[2026-08-12 15:48:31.882241] Deleted folder: D:\photo-host\product-images\product-images\ua-avtmt-35k-13
+[2026-08-12 15:48:31.885698] Deleted folder: D:\photo-host\product-images\product-images\ua-avtmt-35k-14
+[2026-08-12 15:48:31.887203] Deleted folder: D:\photo-host\product-images\product-images\ua-avtmt-35k-15
+[2026-08-12 15:48:31.888584] Deleted folder: D:\photo-host\product-images\product-images\ua-avtmt-35k-16
+[2026-08-12 15:48:31.890028] Deleted folder: D:\photo-host\product-images\product-images\ua-avtmt-35k-17
+[2026-08-12 15:48:31.891759] Deleted folder: D:\photo-host\product-images\product-images\ua-avtmt-35k-18
+[2026-08-12 15:48:31.892758] Deleted folder: D:\photo-host\product-images\product-images\ua-avtmt-35k-19
+[2026-08-12 15:48:31.894997] Deleted folder: D:\photo-host\product-images\product-images\ua-avtmt-35k-20
+[2026-08-12 15:48:31.896768] Deleted folder: D:\photo-host\product-images\product-images\ua-avtmt-35k-21
+[2026-08-12 15:48:31.898195] Deleted folder: D:\photo-host\product-images\product-images\ua-avtmt-35k-22
