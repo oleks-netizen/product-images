@@ -15,3 +15,7 @@
 [2026-08-12 15:48:31.894997] Deleted folder: D:\photo-host\product-images\product-images\ua-avtmt-35k-20
 [2026-08-12 15:48:31.896768] Deleted folder: D:\photo-host\product-images\product-images\ua-avtmt-35k-21
 [2026-08-12 15:48:31.898195] Deleted folder: D:\photo-host\product-images\product-images\ua-avtmt-35k-22
+[2026-08-12 15:48:36.805148] GitHub successfully cleaned and pushed
+[2026-08-12 15:48:52.188078] ======= START =======
+[2026-08-12 15:48:52.188078] Input folder: C:/Users/Asus/Desktop/1 редагування2026/380/фото/6 посортовані
+[2026-08-12 15:48:52.660011] ======= DONE PROCESSING =======
