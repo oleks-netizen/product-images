@@ -575,3 +575,7 @@
 [2026-08-19 14:32:08.375638] Deleted folder: D:\photo-host\product-images\product-images\TW-Yoko-violet-flo
 [2026-08-19 14:32:08.376639] Deleted folder: D:\photo-host\product-images\product-images\TW-Yoko-white-flo
 [2026-08-19 14:32:08.386503] Deleted folder: D:\photo-host\product-images\product-images\TW-Yoko-yell
+[2026-08-19 14:32:26.600306] GitHub successfully cleaned and pushed
+[2026-08-19 14:33:35.453276] ======= START =======
+[2026-08-19 14:33:35.453276] Input folder: C:/Users/Asus/Desktop/1 редагування2026/383 сумки нові/фото/6 посортовані
+[2026-08-19 14:33:36.242354] ======= DONE PROCESSING =======
