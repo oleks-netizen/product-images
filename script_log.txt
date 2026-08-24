@@ -1,5 +1,1 @@
-[2026-08-24 08:11:43.215835] Deleted file: D:\photo-host\product-images\product-images\script_log.txt
-[2026-08-24 08:11:47.867869] GitHub successfully cleaned and pushed
-[2026-08-24 08:12:02.232914] ======= START =======
-[2026-08-24 08:12:02.233924] Input folder: C:/Users/Asus/Desktop/1 редагування2026/382 портмоне/фото/4 посортовані
-[2026-08-24 08:12:02.621937] ======= DONE PROCESSING =======
+[2026-08-24 10:24:14.546263] Deleted file: D:\photo-host\product-images\product-images\script_log.txt
