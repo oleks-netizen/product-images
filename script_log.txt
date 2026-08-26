@@ -1,5 +1,2 @@
-[2026-08-24 10:24:14.546263] Deleted file: D:\photo-host\product-images\product-images\script_log.txt
-[2026-08-24 10:24:17.993911] GitHub successfully cleaned and pushed
-[2026-08-24 10:24:42.062566] ======= START =======
-[2026-08-24 10:24:42.063566] Input folder: C:/Users/Asus/Desktop/1 редагування2026/384 рюкзак/фото/7 посортовані
-[2026-08-24 10:24:43.593113] ======= DONE PROCESSING =======
+[2026-08-26 17:45:06.712598] Deleted file: D:\photo-host\product-images\product-images\script_log.txt
+[2026-08-26 17:45:06.712598] Deleted folder: D:\photo-host\product-images\product-images\TW-Kim-caramel
