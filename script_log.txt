@@ -3,3 +3,7 @@
 [2026-09-02 09:40:13.530593] Deleted folder: D:\photo-host\product-images\product-images\TC92 H_TAN
 [2026-09-02 09:40:13.537594] Deleted folder: D:\photo-host\product-images\product-images\TC93 CHT_BRN
 [2026-09-02 09:40:13.540594] Deleted folder: D:\photo-host\product-images\product-images\X37 BLK
+[2026-09-02 09:40:20.027052] GitHub successfully cleaned and pushed
+[2026-09-02 09:40:30.115404] ======= START =======
+[2026-09-02 09:40:30.115404] Input folder: C:/Users/Asus/Desktop/1 редагування2026/385 сумки/фото/3 самбег посортовані
+[2026-09-02 09:40:30.649253] ======= DONE PROCESSING =======
