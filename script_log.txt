@@ -1,1 +1,52 @@
 [2026-10-25 18:26:05.295066] Deleted file: D:\photo-host\product-images\product-images\script_log.txt
+[2026-10-25 18:26:10.535221] GitHub successfully cleaned and pushed
+[2026-10-25 18:42:29.225000] ======= START =======
+[2026-10-25 18:42:29.228537] Input folder: C:/Users/Asus/Desktop/чохли обєднання/додавання фото/2 перейменовані фото/result_2026-10-25_18-22-51
+[2026-10-25 18:42:29.510059] Converted and deleted original PNG: C:/Users/Asus/Desktop/чохли обєднання/додавання фото/2 перейменовані фото/result_2026-10-25_18-22-51\BN-GC-19-g-kr\001_image_BN-GC-19-g-kr.png
+[2026-10-25 18:42:29.599284] Converted and deleted original PNG: C:/Users/Asus/Desktop/чохли обєднання/додавання фото/2 перейменовані фото/result_2026-10-25_18-22-51\BN-GC-19-iz\001_image_BN-GC-19-iz.png
+[2026-10-25 18:42:29.678715] Converted and deleted original PNG: C:/Users/Asus/Desktop/чохли обєднання/додавання фото/2 перейменовані фото/result_2026-10-25_18-22-51\BN-GC-19-k-kr\001_image_BN-GC-19-k-kr.png
+[2026-10-25 18:42:29.761751] Converted and deleted original PNG: C:/Users/Asus/Desktop/чохли обєднання/додавання фото/2 перейменовані фото/result_2026-10-25_18-22-51\BN-GC-19-o\001_image_BN-GC-19-o.png
+[2026-10-25 18:42:29.840750] Converted and deleted original PNG: C:/Users/Asus/Desktop/чохли обєднання/додавання фото/2 перейменовані фото/result_2026-10-25_18-22-51\BN-GC-19-vin-kr\001_image_BN-GC-19-vin-kr.png
+[2026-10-25 18:42:29.919702] Converted and deleted original PNG: C:/Users/Asus/Desktop/чохли обєднання/додавання фото/2 перейменовані фото/result_2026-10-25_18-22-51\BN-GC-28-choko\001_image_BN-GC-28-choko.png
+[2026-10-25 18:42:29.999136] Converted and deleted original PNG: C:/Users/Asus/Desktop/чохли обєднання/додавання фото/2 перейменовані фото/result_2026-10-25_18-22-51\BN-GC-28-g\001_image_BN-GC-28-g.png
+[2026-10-25 18:42:30.076842] Converted and deleted original PNG: C:/Users/Asus/Desktop/чохли обєднання/додавання фото/2 перейменовані фото/result_2026-10-25_18-22-51\BN-GC-28-k\001_image_BN-GC-28-k.png
+[2026-10-25 18:42:30.156848] Converted and deleted original PNG: C:/Users/Asus/Desktop/чохли обєднання/додавання фото/2 перейменовані фото/result_2026-10-25_18-22-51\BN-GC-28-malachite\001_image_BN-GC-28-malachite.png
+[2026-10-25 18:42:30.242853] Converted and deleted original PNG: C:/Users/Asus/Desktop/чохли обєднання/додавання фото/2 перейменовані фото/result_2026-10-25_18-22-51\BN-GC-7-iz\001_image_BN-GC-7-iz.png
+[2026-10-25 18:42:30.345862] Converted and deleted original PNG: C:/Users/Asus/Desktop/чохли обєднання/додавання фото/2 перейменовані фото/result_2026-10-25_18-22-51\BN-GC-7-k\001_image_BN-GC-7-k.png
+[2026-10-25 18:42:30.478873] Converted and deleted original PNG: C:/Users/Asus/Desktop/чохли обєднання/додавання фото/2 перейменовані фото/result_2026-10-25_18-22-51\BN-GC-7-k-kr\001_image_BN-GC-7-k-kr.png
+[2026-10-25 18:42:30.594880] Converted and deleted original PNG: C:/Users/Asus/Desktop/чохли обєднання/додавання фото/2 перейменовані фото/result_2026-10-25_18-22-51\BN-GC-7-malachite\001_image_BN-GC-7-malachite.png
+[2026-10-25 18:42:30.678889] Converted and deleted original PNG: C:/Users/Asus/Desktop/чохли обєднання/додавання фото/2 перейменовані фото/result_2026-10-25_18-22-51\BN-GC-7-navy-blue\001_image_BN-GC-7-navy-blue.png
+[2026-10-25 18:42:30.761898] Converted and deleted original PNG: C:/Users/Asus/Desktop/чохли обєднання/додавання фото/2 перейменовані фото/result_2026-10-25_18-22-51\BN-GC-7-nn\001_image_BN-GC-7-nn.png
+[2026-10-25 18:42:30.842037] Converted and deleted original PNG: C:/Users/Asus/Desktop/чохли обєднання/додавання фото/2 перейменовані фото/result_2026-10-25_18-22-51\BN-GC-7-o\001_image_BN-GC-7-o.png
+[2026-10-25 18:42:30.923042] Converted and deleted original PNG: C:/Users/Asus/Desktop/чохли обєднання/додавання фото/2 перейменовані фото/result_2026-10-25_18-22-51\BN-GC-7-red\001_image_BN-GC-7-red.png
+[2026-10-25 18:42:31.035050] Converted and deleted original PNG: C:/Users/Asus/Desktop/чохли обєднання/додавання фото/2 перейменовані фото/result_2026-10-25_18-22-51\BN-GC-7-tiffany\001_image_BN-GC-7-tiffany.png
+[2026-10-25 18:42:31.131060] Converted and deleted original PNG: C:/Users/Asus/Desktop/чохли обєднання/додавання фото/2 перейменовані фото/result_2026-10-25_18-22-51\BN-GC-7-vin\001_image_BN-GC-7-vin.png
+[2026-10-25 18:42:31.215065] Converted and deleted original PNG: C:/Users/Asus/Desktop/чохли обєднання/додавання фото/2 перейменовані фото/result_2026-10-25_18-22-51\BN-GC-8-g-kr\001_image_BN-GC-8-g-kr.png
+[2026-10-25 18:42:31.296071] Converted and deleted original PNG: C:/Users/Asus/Desktop/чохли обєднання/додавання фото/2 перейменовані фото/result_2026-10-25_18-22-51\BN-GC-8-k-kr\001_image_BN-GC-8-k-kr.png
+[2026-10-25 18:42:31.375079] Converted and deleted original PNG: C:/Users/Asus/Desktop/чохли обєднання/додавання фото/2 перейменовані фото/result_2026-10-25_18-22-51\BN-GC-8-o\001_image_BN-GC-8-o.png
+[2026-10-25 18:42:31.458085] Converted and deleted original PNG: C:/Users/Asus/Desktop/чохли обєднання/додавання фото/2 перейменовані фото/result_2026-10-25_18-22-51\BN-GC-19-g-kr\002_image_BN-GC-19-g-kr.png
+[2026-10-25 18:42:31.543093] Converted and deleted original PNG: C:/Users/Asus/Desktop/чохли обєднання/додавання фото/2 перейменовані фото/result_2026-10-25_18-22-51\BN-GC-19-iz\002_image_BN-GC-19-iz.png
+[2026-10-25 18:42:31.627098] Converted and deleted original PNG: C:/Users/Asus/Desktop/чохли обєднання/додавання фото/2 перейменовані фото/result_2026-10-25_18-22-51\BN-GC-19-k-kr\002_image_BN-GC-19-k-kr.png
+[2026-10-25 18:42:31.727683] Converted and deleted original PNG: C:/Users/Asus/Desktop/чохли обєднання/додавання фото/2 перейменовані фото/result_2026-10-25_18-22-51\BN-GC-19-o\002_image_BN-GC-19-o.png
+[2026-10-25 18:42:31.812503] Converted and deleted original PNG: C:/Users/Asus/Desktop/чохли обєднання/додавання фото/2 перейменовані фото/result_2026-10-25_18-22-51\BN-GC-19-vin-kr\002_image_BN-GC-19-vin-kr.png
+[2026-10-25 18:42:31.893662] Converted and deleted original PNG: C:/Users/Asus/Desktop/чохли обєднання/додавання фото/2 перейменовані фото/result_2026-10-25_18-22-51\BN-GC-28-choko\002_image_BN-GC-28-choko.png
+[2026-10-25 18:42:31.973875] Converted and deleted original PNG: C:/Users/Asus/Desktop/чохли обєднання/додавання фото/2 перейменовані фото/result_2026-10-25_18-22-51\BN-GC-28-g\002_image_BN-GC-28-g.png
+[2026-10-25 18:42:32.051596] Converted and deleted original PNG: C:/Users/Asus/Desktop/чохли обєднання/додавання фото/2 перейменовані фото/result_2026-10-25_18-22-51\BN-GC-28-k\002_image_BN-GC-28-k.png
+[2026-10-25 18:42:32.134670] Converted and deleted original PNG: C:/Users/Asus/Desktop/чохли обєднання/додавання фото/2 перейменовані фото/result_2026-10-25_18-22-51\BN-GC-28-malachite\002_image_BN-GC-28-malachite.png
+[2026-10-25 18:42:32.221679] Converted and deleted original PNG: C:/Users/Asus/Desktop/чохли обєднання/додавання фото/2 перейменовані фото/result_2026-10-25_18-22-51\BN-GC-7-iz\002_image_BN-GC-7-iz.png
+[2026-10-25 18:42:32.300685] Converted and deleted original PNG: C:/Users/Asus/Desktop/чохли обєднання/додавання фото/2 перейменовані фото/result_2026-10-25_18-22-51\BN-GC-7-k\002_image_BN-GC-7-k.png
+[2026-10-25 18:42:32.440885] Converted and deleted original PNG: C:/Users/Asus/Desktop/чохли обєднання/додавання фото/2 перейменовані фото/result_2026-10-25_18-22-51\BN-GC-8-g-kr\002_image_BN-GC-8-g-kr.png
+[2026-10-25 18:42:32.540803] Converted and deleted original PNG: C:/Users/Asus/Desktop/чохли обєднання/додавання фото/2 перейменовані фото/result_2026-10-25_18-22-51\BN-GC-7-k\003_image_BN-GC-7-k.png
+[2026-10-25 18:42:32.621073] Converted and deleted original PNG: C:/Users/Asus/Desktop/чохли обєднання/додавання фото/2 перейменовані фото/result_2026-10-25_18-22-51\BN-GC-7-k-kr\003_image_BN-GC-7-k-kr.png
+[2026-10-25 18:42:32.704558] Converted and deleted original PNG: C:/Users/Asus/Desktop/чохли обєднання/додавання фото/2 перейменовані фото/result_2026-10-25_18-22-51\BN-GC-7-malachite\3_image_BN-GC-7-malachite.png
+[2026-10-25 18:42:32.785984] Converted and deleted original PNG: C:/Users/Asus/Desktop/чохли обєднання/додавання фото/2 перейменовані фото/result_2026-10-25_18-22-51\BN-GC-7-navy-blue\3_image_BN-GC-7-navy-blue.png
+[2026-10-25 18:42:32.868506] Converted and deleted original PNG: C:/Users/Asus/Desktop/чохли обєднання/додавання фото/2 перейменовані фото/result_2026-10-25_18-22-51\BN-GC-7-nn\3_image_BN-GC-7-nn.png
+[2026-10-25 18:42:32.948672] Converted and deleted original PNG: C:/Users/Asus/Desktop/чохли обєднання/додавання фото/2 перейменовані фото/result_2026-10-25_18-22-51\BN-GC-7-o\003_image_BN-GC-7-o.png
+[2026-10-25 18:42:33.038058] Converted and deleted original PNG: C:/Users/Asus/Desktop/чохли обєднання/додавання фото/2 перейменовані фото/result_2026-10-25_18-22-51\BN-GC-7-red\3_image_BN-GC-7-red.png
+[2026-10-25 18:42:33.115903] Converted and deleted original PNG: C:/Users/Asus/Desktop/чохли обєднання/додавання фото/2 перейменовані фото/result_2026-10-25_18-22-51\BN-GC-7-tiffany\003_image_BN-GC-7-tiffany.png
+[2026-10-25 18:42:33.190748] Converted and deleted original PNG: C:/Users/Asus/Desktop/чохли обєднання/додавання фото/2 перейменовані фото/result_2026-10-25_18-22-51\BN-GC-7-vin\003_image_BN-GC-7-vin.png
+[2026-10-25 18:42:33.281753] Converted and deleted original PNG: C:/Users/Asus/Desktop/чохли обєднання/додавання фото/2 перейменовані фото/result_2026-10-25_18-22-51\BN-GC-8-k-kr\003_image_BN-GC-8-k-kr.png
+[2026-10-25 18:42:33.379416] Converted and deleted original PNG: C:/Users/Asus/Desktop/чохли обєднання/додавання фото/2 перейменовані фото/result_2026-10-25_18-22-51\BN-GC-8-o\3_image_BN-GC-8-o.png
+[2026-10-25 18:42:33.548909] Converted and deleted original PNG: C:/Users/Asus/Desktop/чохли обєднання/додавання фото/2 перейменовані фото/result_2026-10-25_18-22-51\BN-GC-7-k-kr\4_image_BN-GC-7-k-kr.png
+[2026-10-25 18:42:33.675314] Converted and deleted original PNG: C:/Users/Asus/Desktop/чохли обєднання/додавання фото/2 перейменовані фото/result_2026-10-25_18-22-51\BN-GC-7-malachite\004_image_BN-GC-7-malachite.png
+[2026-10-25 18:42:33.984223] ======= DONE PROCESSING =======
